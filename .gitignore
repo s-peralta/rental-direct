@@ -1,0 +1,14 @@
+# dependencies
+node_modules/
+
+# production build
+build/
+
+# misc
+.DS_Store
+
+# environment variables
+.env
+
+# lock file (optional)
+package-lock.json

@@ -1,0 +1,4436 @@
+[
+  { 
+      "name": "0887942 B.C. Ltd.",
+      "category": "Construction",
+      "address": "1005 Billeter Road Smithers, BC V0J 2N6 CANADA",
+      "phone": "(250) 847-5265"
+  },
+  {
+      "name": "Anand Infra Rentals",
+      "category": "Construction",
+      "address": "3 Leadership Drive Brampton, ON L6Y 5V1 CANADA",
+      "phone": "(647) 287-9896",
+      "website": "www.ainfrarentals.ca"
+  },
+  {
+      "name": "Action Rental",
+      "category": "Construction",
+      "address": "7448 County Road 17 P.O. Box 89 Wendover, ON K0A 3K0 CANADA",
+      "phone": "(613) 822-6222",
+      "website": "https://www.actionrental.ca"
+  },
+  {
+      "name": "1st Call Rentals, Ltd.",
+      "category": "Construction",
+      "address": "7547 Hedley Avenue Burnaby, BC V5E 2R1 CANADA",
+      "phone": "(778) 379-8939",
+      "website": "https://www.1stcallrentals.com"
+  },
+  {
+      "name": "TC Sales and Rental",
+      "category": "Construction",
+      "address": "19 Riverview Road Grand Falls-Windsor, NL A2A 1X4 CANADA",
+      "phone": "(709) 489-2002"
+  },
+  {
+      "name": "A & B Tool Rentals Ltd. (Surrey)",
+      "category": "Construction",
+      "address": "10498 King George Blvd Surrey, BC V3T 2W9 CANADA",
+      "phone": "(778) 395-7368",
+      "website": "https://www.abtoolrentals.com"
+  },
+  {
+      "name": "A & B Tool Rentals Ltd. (Vancouver - Barnard)",
+      "category": "Construction",
+      "address": "8695 Barnard Street Vancouver, BC V6P 5G6 CANADA",
+      "phone": "(778) 395-7368",
+      "website": "https://www.abtoolrentals.com"
+  },
+  {
+      "name": "A & B Tool Rentals Ltd. (Vancouver - Venables)",
+      "category": "Construction",
+      "address": "1331 Venables Street Vancouver, BC V5L 2G1 CANADA",
+      "phone": "(778) 395-7368",
+      "website": "https://www.abtoolrentals.com"
+  },
+  {
+      "name": "A A Rentals & Supply Ltd.",
+      "category": "Construction",
+      "address": "P.O. Box 5124 Stn A Calgary, AB T2H 1X3 CANADA",
+      "phone": "(403) 253-3326",
+      "website": "https://www.aarentalandsupply.com"
+  },
+  {
+      "name": "A to Z Rental Centre Ltd. (Fredericton)",
+      "category": "Construction",
+      "address": "904 Prospect Street Fredericton, NB E3B 2T8 CANADA",
+      "phone": "(506) 452-9758",
+      "website": "https://www.atozrentalcentre.ca"
+  },
+  {
+      "name": "A World of Rentals Inc.",
+      "category": "Construction",
+      "address": "154 Railway Street Kingston, ON K7K 2L9 CANADA",
+      "phone": "(613) 547-4400",
+      "website": "https://www.aworldofrentals.ca"
+  },
+  {
+      "name": "Able Equipment Rentals",
+      "category": "Construction",
+      "address": "4311 Buchanan Street Burnaby, BC V5C 3X7 CANADA",
+      "phone": "(604) 299-8358",
+      "website": "https://www.unitedrentals.com/able-equipment-rental"
+  },
+  {
+      "name": "Ace Leasing Ltd. (Bathurst)",
+      "category": "Construction",
+      "address": "1935 Connolly Avenue Bathurst, NB E2A 4W7 CANADA",
+      "phone": "(506) 546-9874"
+  },
+  {
+      "name": "Ace Leasing Ltd. (Miramichi)",
+      "category": "Construction",
+      "address": "300 Dalton Avenue Miramichi, NB E1V 3N9 CANADA",
+      "phone": "(506) 622-1025",
+      "website": "https://www.ace-rentals.ca"
+  },
+  {
+      "name": "Acro Aerials Inc.",
+      "category": "Construction",
+      "address": "1-630 Rivermede Road Concord, ON L4K 2H7 CANADA",
+      "phone": "(416) 410-7630",
+      "website": "https://www.acroaerials.com"
+  },
+  {
+      "name": "Anand Infra Rentals",
+      "category": "Construction",
+      "address": "3 Leadership Drive Brampton, ON L6Y 5V1 CANADA",
+      "phone": "(647) 287-9896",
+      "website": "https://www.ainfrarentals.ca"
+  },
+  {
+      "name": "Action Rental",
+      "category": "Construction",
+      "address": "7448 County Road 17 P.O. Box 89 Wendover, ON K0A 3K0 CANADA",
+      "phone": "(613) 822-6222",
+      "website": "https://www.actionrental.ca"
+  },
+  {
+      "name": "1st Call Rentals, Ltd.",
+      "category": "Construction",
+      "address": "7547 Hedley Avenue Burnaby, BC V5E 2R1 CANADA",
+      "phone": "(778) 379-8939",
+      "website": "https://www.1stcallrentals.com"
+  },
+  {
+      "name": "TC Sales and Rental",
+      "category": "Construction",
+      "address": "19 Riverview Road Grand Falls-Windsor, NL A2A 1X4 CANADA",
+      "phone": "(709) 489-2002"
+  },
+  {
+      "name": "A & B Tool Rentals Ltd. (Surrey)",
+      "category": "Construction",
+      "address": "10498 King George Blvd Surrey, BC V3T 2W9 CANADA",
+      "phone": "(778) 395-7368",
+      "website": "https://www.abtoolrentals.com"
+  },
+  {
+      "name": "A & B Tool Rentals Ltd. (Vancouver - Barnard)",
+      "category": "Construction",
+      "address": "8695 Barnard Street Vancouver, BC V6P 5G6 CANADA",
+      "phone": "(778) 395-7368",
+      "website": "https://www.abtoolrentals.com"
+  },
+  {
+      "name": "A & B Tool Rentals Ltd. (Vancouver - Venables)",
+      "category": "Construction",
+      "address": "1331 Venables Street Vancouver, BC V5L 2G1 CANADA",
+      "phone": "(778) 395-7368",
+      "website": "https://www.abtoolrentals.com"
+  },
+  {
+      "name": "A A Rentals & Supply Ltd.",
+      "category": "Construction",
+      "address": "P.O. Box 5124 Stn A Calgary, AB T2H 1X3 CANADA",
+      "phone": "(403) 253-3326",
+      "website": "https://www.aarentalandsupply.com"
+  },
+  {
+      "name": "A to Z Rental Centre Ltd. (Fredericton)",
+      "category": "Construction",
+      "address": "904 Prospect Street Fredericton, NB E3B 2T8 CANADA",
+      "phone": "(506) 452-9758",
+      "website": "https://www.atozrentalcentre.ca"
+  },
+  {
+      "name": "A World of Rentals Inc.",
+      "category": "Construction",
+      "address": "154 Railway Street Kingston, ON K7K 2L9 CANADA",
+      "phone": "(613) 547-4400",
+      "website": "https://www.aworldofrentals.ca"
+  },
+  {
+      "name": "Able Equipment Rentals",
+      "category": "Construction",
+      "address": "4311 Buchanan Street Burnaby, BC V5C 3X7 CANADA",
+      "phone": "(604) 299-8358",
+      "website": "https://www.unitedrentals.com/able-equipment-rental"
+  },
+  {
+      "name": "Ace Leasing Ltd. (Bathurst)",
+      "category": "Construction",
+      "address": "1935 Connolly Avenue Bathurst, NB E2A 4W7 CANADA",
+      "phone": "(506) 546-9874"
+  },
+  {
+      "name": "Ace Leasing Ltd. (Miramichi)",
+      "category": "Construction",
+      "address": "300 Dalton Avenue Miramichi, NB E1V 3N9 CANADA",
+      "phone": "(506) 622-1025",
+      "website": "https://www.ace-rentals.ca"
+  },
+  {
+      "name": "Acro Aerials Inc.",
+      "category": "Construction",
+      "address": "1-630 Rivermede Road Concord, ON L4K 2H7 CANADA",
+      "phone": "(416) 410-7630",
+      "website": "https://www.acroaerials.com"
+  },
+  {
+      "name": "Action Rentals",
+      "category": "Construction",
+      "address": "914 Trans Canada Hwy. Sicamous, BC V0E 2V0 CANADA",
+      "phone": "(250) 836-3800",
+      "website": "https://www.napacanada.com"
+  },
+  {
+      "name": "Active Rent-All",
+      "category": "Construction",
+      "address": "1905 Cariboo Hwy 97N Quesnel, BC V2J 3P2 CANADA",
+      "phone": "(250) 992-5303",
+      "website": "https://www.activerentall.ca"
+  },
+  {
+      "name": "Agcon Equipment",
+      "category": "Construction",
+      "address": "90 Lakeside Road Navin, MB R5T 0E2 CANADA",
+      "phone": "(204) 255-4772",
+      "website": "https://www.agconequipment.ca"
+  },
+  {
+      "name": "Alberta Construction Rentals",
+      "category": "Construction",
+      "address": "2619 7th Avenue NE Calgary, AB T2A 2L9 CANADA",
+      "phone": "(403) 455-6262",
+      "website": "https://www.acrentals.ca"
+  },
+  {
+      "name": "Al-Cha Rentals Inc.",
+      "category": "Construction",
+      "address": "1403 Pembroke Street West Pembroke, ON K8A 7A5 CANADA",
+      "phone": "(613) 735-0338",
+      "website": "https://www.cat.al-charentals.ca"
+  },
+  {
+      "name": "Alder rentals",
+      "category": "Construction",
+      "address": "2145 272 St Aldergrove, BC V4W 2N6 CANADA",
+      "phone": "(778) 878-4860"
+  },
+  {
+      "name": "All Choice Rentals Ltd. (Olds)",
+      "category": "Construction",
+      "address": "6970 - 46 Street Olds, AB T4H 1M6 CANADA",
+      "phone": "(403) 556-7717",
+      "website": "https://www.allchoice.ca"
+  },
+  {
+      "name": "All Choice Rentals Ltd. (Drayton Valley)",
+      "category": "Construction",
+      "address": "5513 50 Avenue Drayton Valley, AB T7A 1S2 CANADA",
+      "phone": "(403) 556-7717",
+      "website": "https://www.allchoice.ca"
+  },
+  {
+      "name": "All Choice Rentals Ltd. (Hinton)",
+      "category": "Construction",
+      "address": "396 Fleming Drive Hinton, AB T7V 0B1 CANADA",
+      "phone": "(403) 556-7717",
+      "website": "https://www.allchoice.ca"
+  },
+  {
+      "name": "All Choice Rentals Ltd. (Rocky Mountain House)",
+      "category": "Construction",
+      "address": "4903 - 43 Street Rocky Mountain House, AB T4T 1P4 CANADA",
+      "phone": "(403) 556-7717",
+      "website": "https://www.allchoice.ca"
+  },
+  {
+      "name": "All Choice Rentals Ltd. (Slave Lake)",
+      "category": "Construction",
+      "address": "2200 8 Street NE Slave Lake, AB T0G 2A2 CANADA",
+      "phone": "(403) 556-7717",
+      "website": "https://www.allchoice.ca"
+  },
+  {
+      "name": "All Choice Rentals Ltd. (St. Albert)",
+      "category": "Construction",
+      "address": "66 Riel Drive St. Albert, AB T8N 4A6 CANADA",
+      "phone": "(403) 556-7717",
+      "website": "https://www.allchoice.ca"
+  },
+  {
+      "name": "Altra Construction Rentals Inc. (Hamilton - Hempstead)",
+      "category": "Construction",
+      "address": "105 Hempstead Drive Hamilton, ON L8W 2Y6 CANADA",
+      "phone": "(905) 659-2577",
+      "website": "https://www.altrarentals.com"
+  },
+  {
+      "name": "Altra Construction Rentals Inc. (Cambridge)",
+      "category": "Construction",
+      "address": "1600 Industrial Road Unit 11 Cambridge, ON N3H 4W5 CANADA",
+      "phone": "(905) 659-2577",
+      "website": "https://www.altrarentals.com"
+  },
+  {
+      "name": "Altra Construction Rentals Inc. (Hamilton - Parkdale)",
+      "category": "Construction",
+      "address": "647 Parkdale Avenue North Hamilton, ON L8H 5Z1 CANADA",
+      "phone": "(905) 659-2577",
+      "website": "https://www.altrarentals.com"
+  },
+  {
+      "name": "Altra Construction Rentals Inc. (Oldcastle)",
+      "category": "Construction",
+      "address": "5125 Hennin Street Oldcastle, ON N0R 1L0 CANADA",
+      "phone": "(905) 659-2577",
+      "website": "https://www.altrarentals.com"
+  },
+  {
+      "name": "Altra Construction Rentals Inc. (St. Catharines)",
+      "category": "Construction",
+      "address": "243 Church Street St. Catharines, ON L2R 3E8 CANADA",
+      "phone": "(905) 659-2577",
+      "website": "https://www.altrarentals.com"
+  },
+  {
+      "name": "Ant Equipment Rentals Ltd",
+      "category": "Construction",
+      "address": "3149 Norland Avenue Burnaby, BC V5B 3A9 CANADA",
+      "phone": "(604) 404-8888",
+      "website": "https://www.ant.ca"
+  },
+  {
+      "name": "A-Plus Equipment Rentals Ltd.",
+      "category": "Construction",
+      "address": "2431 10 Avenue SW Medicine Hat, AB T1A 8G2 CANADA",
+      "phone": "(403) 526-0002",
+      "website": "https://www.aplusrentals.ca"
+  },
+  {
+      "name": "Atelier de Location Turbo Inc.",
+      "category": "Construction",
+      "address": "4300 Rue Hogan Montreal, QC H2H 2N4 CANADA",
+      "phone": "(514) 598-8888",
+      "website": "https://www.locationturbo.com"
+  },
+  {
+      "name": "Atlantic Trailer & Equipment Ltd",
+      "category": "Construction",
+      "address": "8 Lintrose Place Mount Pearl, NL A1N 5K2 CANADA",
+      "phone": "(709) 745-3260",
+      "website": "https://www.atlantictrailer.ca"
+  },
+  {
+      "name": "ATS Traffic - British Columbia Ltd.",
+      "category": "Construction",
+      "address": "200-20351 Duncan Way Langley, BC V3A 7N3 CANADA",
+      "phone": "(604) 530-9908",
+      "website": "https://www.atstraffic.ca"
+  },
+  {
+      "name": "Avalon Industrial & Marine Supply Ltd. (Carbonear)",
+      "category": "Construction",
+      "address": "53 Goff Avenue Carbonear, NL A1Y 1A6 CANADA",
+      "phone": "(709) 596-6058",
+      "website": "https://www.avalonindustrialandmarine.ca"
+  },
+  {
+      "name": "Axiom Equipment Group",
+      "category": "Construction",
+      "address": "612 Railway Avenue Oxbow, SK S0C 2B0 CANADA",
+      "phone": "(306) 483-2305",
+      "website": "https://www.axiomequipmentgroup.com"
+  },
+  {
+      "name": "A-Z Rental Centre",
+      "category": "Construction",
+      "address": "184 Weber Street North Waterloo, ON N2J 3H4 CANADA",
+      "phone": "(519) 885-5590",
+      "website": "https://www.atozrental.ca"
+  },
+  {
+      "name": "B.C. Rentals Ltd. (Richmond)",
+      "category": "Construction",
+      "address": "2071 Viceroy Place Richmond, BC V6V 1Y9 CANADA",
+      "phone": "(604) 323-1222",
+      "website": "https://www.bcrentals.com"
+  },
+  {
+      "name": "B.C. Rentals Ltd. (Vancouver)",
+      "category": "Construction",
+      "address": "1322 Clark Drive Vancouver, BC V5L 3K8 CANADA",
+      "phone": "(604) 323-1222",
+      "website": "https://www.bcrentals.com"
+  },
+  {
+      "name": "Balzac Rentals",
+      "category": "Construction",
+      "address": "260130B Writing Creek Crescent Rocky View County, AB T4A 0M9 CANADA",
+      "phone": "(403) 226-0468",
+      "website": "https://www.balzacrentals.com"
+  },
+  {
+      "name": "Barrie Rent-All Inc.",
+      "category": "Construction",
+      "address": "134 Tiffin Street Barrie, ON L4N 2N4 CANADA",
+      "phone": "(705) 728-8585",
+      "website": "https://www.barrierentall.ca"
+  },
+  {
+      "name": "Bay Equipment Rentals (Lower Sackville)",
+      "category": "Construction",
+      "address": "295 Cobequid Road Lower Sackville, NS B4C 4E6 CANADA",
+      "phone": "(902) 864-7871",
+      "website": "https://www.bayrentals.ca"
+  },
+  {
+      "name": "Belmont Lift Inc.",
+      "category": "Construction",
+      "address": "840 Av Ellingham Pointe-Claire, QC H9R 3S4 CANADA",
+      "phone": "(514) 942-7711",
+      "website": "https://www.belmontlift.com"
+  },
+  {
+      "name": "Bercon Rentals (Hamilton)",
+      "category": "Construction",
+      "address": "420 Grays Road Hamilton, ON L8E 4H6 CANADA",
+      "phone": "(905) 560-5500",
+      "website": "https://www.berconrentals.ca"
+  },
+  {
+      "name": "Bercon Rentals (Etobicoke)",
+      "category": "Construction",
+      "address": "503 Carlingview Drive Etobicoke, ON M9W 5H2 CANADA",
+      "phone": "(905) 560-5500",
+      "website": "https://www.bercontrentals.ca"
+  },
+  {
+      "name": "Big Rock Rentals",
+      "category": "Construction",
+      "address": "80 Millennium Drive Suite 201 Quispamsis, NB E2E 4B1 CANADA",
+      "phone": "(506) 433-5709",
+      "website": "https://www.bigrockrentals.ca"
+  },
+  {
+      "name": "Bojak Équipement Inc.",
+      "category": "Construction",
+      "address": "125 Boul Des Bois-Francs N Victoriaville, QC G6P 1E6 CANADA",
+      "phone": "(819) 795-3000",
+      "website": "https://www.bojakequipement.com"
+  },
+  {
+      "name": "Brenton Rentals & Sales Ltd.",
+      "category": "Construction",
+      "address": "79 McGettigan P.O. Box 670 Marystown, NL A0E 2M0 CANADA",
+      "phone": "(709) 279-1260"
+  },
+  {
+      "name": "BRK Equipment Rentals Ltd.",
+      "category": "Construction",
+      "address": "903 2nd Street West Brooks, AB T1R 1B7 CANADA",
+      "phone": "(403) 362-4655",
+      "website": "https://www.brkrentalsbrooks.com"
+  },
+  {
+      "name": "Broadway Rentals",
+      "category": "Construction",
+      "address": "310 Broadway Avenue North Williams Lake, BC V2G 2Y7 CANADA",
+      "phone": "(250) 392-2662",
+      "website": "https://www.broadwayrentals.ca"
+  },
+  {
+      "name": "Brunswick Lift Rentals",
+      "category": "Construction",
+      "address": "581 Ferdinand Boulevard Dieppe, NB E1A 7G1 CANADA",
+      "phone": "(506) 859-6199",
+      "website": "https://www.brunswickliftrentals.ca"
+  },
+
+  {
+  "name": "0887942 B.C. Ltd.",
+  "category": "Construction",
+  "address": "1005 Billeter Road Smithers, BC V0J 2N6 CANADA",
+  "phone": "(250) 847-5265"
+  },
+  {
+  "name": "Anand Infra Rentals",
+  "category": "Construction",
+  "address": "3 Leadership Drive Brampton, ON L6Y 5V1 CANADA",
+  "phone": "(647) 287-9896",
+  "website": "https://www.ainfrarentals.ca"
+  },
+  {
+  "name": "Action Rental",
+  "category": "Construction",
+  "address": "7448 County Road 17 P.O. Box 89 Wendover, ON K0A 3K0 CANADA",
+  "phone": "(613) 822-6222",
+  "website": "https://www.actionrental.ca"
+  },
+  {
+  "name": "1st Call Rentals, Ltd.",
+  "category": "Construction",
+  "address": "7547 Hedley Avenue Burnaby, BC V5E 2R1 CANADA",
+  "phone": "(778) 379-8939",
+  "website": "https://www.1stcallrentals.com"
+  },
+  {
+  "name": "TC Sales and Rental",
+  "category": "Construction",
+  "address": "19 Riverview Road Grand Falls-Windsor, NL A2A 1X4 CANADA",
+  "phone": "(709) 489-2002"
+  },
+  {
+  "name": "A & B Tool Rentals Ltd. (Surrey)",
+  "category": "Construction",
+  "address": "10498 King George Blvd Surrey, BC V3T 2W9 CANADA",
+  "phone": "(778) 395-7368",
+  "website": "https://www.abtoolrentals.com"
+  },
+  {
+  "name": "A & B Tool Rentals Ltd. (Vancouver - Barnard)",
+  "category": "Construction",
+  "address": "8695 Barnard Street Vancouver, BC V6P 5G6 CANADA",
+  "phone": "(778) 395-7368",
+  "website": "https://www.abtoolrentals.com"
+  },
+  {
+  "name": "A & B Tool Rentals Ltd. (Vancouver - Venables)",
+  "category": "Construction",
+  "address": "1331 Venables Street Vancouver, BC V5L 2G1 CANADA",
+  "phone": "(778) 395-7368",
+  "website": "https://www.abtoolrentals.com"
+  },
+  {
+  "name": "A A Rentals & Supply Ltd.",
+  "category": "Construction",
+  "address": "P.O. Box 5124 Stn A Calgary, AB T2H 1X3 CANADA",
+  "phone": "(403) 253-3326",
+  "website": "https://www.aarentalandsupply.com"
+  },
+  {
+  "name": "A to Z Rental Centre Ltd. (Fredericton)",
+  "category": "Construction",
+  "address": "904 Prospect Street Fredericton, NB E3B 2T8 CANADA",
+  "phone": "(506) 452-9758",
+  "website": "https://www.atozrentalcentre.ca"
+  },
+  {
+  "name": "A World of Rentals Inc.",
+  "category": "Construction",
+  "address": "154 Railway Street Kingston, ON K7K 2L9 CANADA",
+  "phone": "(613) 547-4400",
+  "website": "https://www.aworldofrentals.ca"
+  },
+  {
+  "name": "Able Equipment Rentals",
+  "category": "Construction",
+  "address": "4311 Buchanan Street Burnaby, BC V5C 3X7 CANADA",
+  "phone": "(604) 299-8358",
+  "website": "https://www.unitedrentals.com/able-equipment-rental"
+  },
+  {
+  "name": "Ace Leasing Ltd. (Bathurst)",
+  "category": "Construction",
+  "address": "1935 Connolly Avenue Bathurst, NB E2A 4W7 CANADA",
+  "phone": "(506) 546-9874"
+  },
+  {
+  "name": "Ace Leasing Ltd. (Miramichi)",
+  "category": "Construction",
+  "address": "300 Dalton Avenue Miramichi, NB E1V 3N9 CANADA",
+  "phone": "(506) 622-1025"
+  },
+  {
+  "name": "0887942 B.C. Ltd.",
+  "category": "Construction",
+  "address": "1005 Billeter Road Smithers, BC V0J 2N6 CANADA",
+  "phone": "(250) 847-5265"
+  },
+  {
+  "name": "Anand Infra Rentals",
+  "category": "Construction",
+  "address": "3 Leadership Drive Brampton, ON L6Y 5V1 CANADA",
+  "phone": "(647) 287-9896",
+  "website": "https://www.ainfrarentals.ca"
+  },
+  {
+  "name": "Action Rental",
+  "category": "Construction",
+  "address": "7448 County Road 17 P.O. Box 89 Wendover, ON K0A 3K0 CANADA",
+  "phone": "(613) 822-6222",
+  "website": "https://www.actionrental.ca"
+  },
+  {
+  "name": "1st Call Rentals, Ltd.",
+  "category": "Construction",
+  "address": "7547 Hedley Avenue Burnaby, BC V5E 2R1 CANADA",
+  "phone": "(778) 379-8939",
+  "website": "https://www.1stcallrentals.com"
+  },
+  {
+  "name": "TC Sales and Rental",
+  "category": "Construction",
+  "address": "19 Riverview Road Grand Falls-Windsor, NL A2A 1X4 CANADA",
+  "phone": "(709) 489-2002"
+  },
+  {
+  "name": "A & B Tool Rentals Ltd. (Surrey)",
+  "category": "Construction",
+  "address": "10498 King George Blvd Surrey, BC V3T 2W9 CANADA",
+  "phone": "(778) 395-7368",
+  "website": "https://www.abtoolrentals.com"
+  },
+  {
+  "name": "A & B Tool Rentals Ltd. (Vancouver - Barnard)",
+  "category": "Construction",
+  "address": "8695 Barnard Street Vancouver, BC V6P 5G6 CANADA",
+  "phone": "(778) 395-7368",
+  "website": "https://www.abtoolrentals.com"
+  },
+  {
+  "name": "A & B Tool Rentals Ltd. (Vancouver - Venables)",
+  "category": "Construction",
+  "address": "1331 Venables Street Vancouver, BC V5L 2G1 CANADA",
+  "phone": "(778) 395-7368",
+  "website": "https://www.abtoolrentals.com"
+  },
+  {
+  "name": "A A Rentals & Supply Ltd.",
+  "category": "Construction",
+  "address": "P.O. Box 5124 Stn A Calgary, AB T2H 1X3 CANADA",
+  "phone": "(403) 253-3326",
+  "website": "https://www.aarentalandsupply.com"
+  },
+  {
+  "name": "A to Z Rental Centre Ltd. (Fredericton)",
+  "category": "Construction",
+  "address": "904 Prospect Street Fredericton, NB E3B 2T8 CANADA",
+  "phone": "(506) 452-9758",
+  "website": "https://www.atozrentalcentre.ca"
+  },
+  {
+  "name": "A World of Rentals Inc.",
+  "category": "Construction",
+  "address": "154 Railway Street Kingston, ON K7K 2L9 CANADA",
+  "phone": "(613) 547-4400",
+  "website": "https://www.aworldofrentals.ca"
+  },
+  {
+  "name": "Able Equipment Rentals",
+  "category": "Construction",
+  "address": "4311 Buchanan Street Burnaby, BC V5C 3X7 CANADA",
+  "phone": "(604) 299-8358",
+  "website": "https://www.unitedrentals.com/able-equipment-rental"
+  },
+  {
+  "name": "Ace Leasing Ltd. (Bathurst)",
+  "category": "Construction",
+  "address": "1935 Connolly Avenue Bathurst, NB E2A 4W7 CANADA",
+  "phone": "(506) 546-9874"
+  },
+  {
+  "name": "Ace Leasing Ltd. (Miramichi)",
+  "category": "Construction",
+  "address": "300 Dalton Avenue Miramichi, NB E1V 3N9 CANADA",
+  "phone": "(506) 622-1025",
+  "website": "https://www.ace-rentals.ca"
+  },
+  {
+  "name": "Acro Aerials Inc.",
+  "category": "Construction",
+  "address": "1-630 Rivermede Road Concord, ON L4K 2H7 CANADA",
+  "phone": "(416) 410-7630",
+  "website": "https://www.acroaerials.com"
+  },
+  {
+  "name": "Action Rentals",
+  "category": "Construction",
+  "address": "914 Trans Canada Hwy. Sicamous, BC V0E 2V0 CANADA",
+  "phone": "(250) 836-3800",
+  "website": "https://www.napacanada.com"
+  },
+  {
+  "name": "Active Rent-All",
+  "category": "Construction",
+  "address": "1905 Cariboo Hwy 97N Quesnel, BC V2J 3P2 CANADA",
+  "phone": "(250) 992-5303",
+  "website": "https://www.activerentall.ca"
+  },
+  {
+  "name": "Agcon Equipment",
+  "category": "Construction",
+  "address": "90 Lakeside Road Navin, MB R5T 0E2 CANADA",
+  "phone": "(204) 255-4772",
+  "website": "https://www.agconequipment.ca"
+  },
+  {
+  "name": "Alberta Construction Rentals",
+  "category": "Construction",
+  "address": "2619 7th Avenue NE Calgary, AB T2A 2L9 CANADA",
+  "phone": "(403) 455-6262",
+  "website": "https://www.acrentals.ca"
+  },
+  {
+  "name": "Al-Cha Rentals Inc.",
+  "category": "Construction",
+  "address": "1403 Pembroke Street West Pembroke, ON K8A 7A5 CANADA",
+  "phone": "(613) 735-0338",
+  "website": "https://www.cat.al-charentals.ca"
+  },
+  {
+  "name": "Alder rentals",
+  "category": "Construction",
+  "address": "2145 272 St Aldergrove, BC V4W 2N6 CANADA",
+  "phone": "(778) 878-4860"
+  },
+  {
+  "name": "All Choice Rentals Ltd. (Olds)",
+  "category": "Construction",
+  "address": "6970 - 46 Street Olds, AB T4H 1M6 CANADA",
+  "phone": "(403) 556-7717",
+  "website": "https://www.allchoice.ca"
+  },
+  {
+  "name": "All Choice Rentals Ltd. (Drayton Valley)",
+  "category": "Construction",
+  "address": "5513 50 Avenue Drayton Valley, AB T7A 1S2 CANADA",
+  "phone": "(403) 556-7717",
+  "website": "https://www.allchoice.ca"
+  },
+  {
+  "name": "All Choice Rentals Ltd. (Hinton)",
+  "category": "Construction",
+  "address": "396 Fleming Drive Hinton, AB T7V 0B1 CANADA",
+  "phone": "(403) 556-7717",
+  "website": "https://www.allchoice.ca"
+  },
+  {
+  "name": "All Choice Rentals Ltd. (Rocky Mountain House)",
+  "category": "Construction",
+  "address": "4903 - 43 Street Rocky Mountain House, AB T4T 1P4 CANADA",
+  "phone": "(403) 556-7717",
+  "website": "https://www.allchoice.ca"
+  },
+  {
+  "name": "All Choice Rentals Ltd. (Slave Lake)",
+  "category": "Construction",
+  "address": "2200 8 Street NE Slave Lake, AB T0G 2A2 CANADA",
+  "phone": "(403) 556-7717",
+  "website": "https://www.allchoice.ca"
+  },
+  {
+  "name": "All Choice Rentals Ltd. (St. Albert)",
+  "category": "Construction",
+  "address": "66 Riel Drive St. Albert, AB T8N 4A6 CANADA",
+  "phone": "(403) 556-7717",
+  "website": "https://www.allchoice.ca"
+  },
+  {
+  "name": "Altra Construction Rentals Inc. (Hamilton - Hempstead)",
+  "category": "Construction",
+  "address": "105 Hempstead Drive Hamilton, ON L8W 2Y6 CANADA",
+  "phone": "(905) 659-2577",
+  "website": "https://www.altrarentals.com"
+  },
+  {
+  "name": "Altra Construction Rentals Inc. (Cambridge)",
+  "category": "Construction",
+  "address": "1600 Industrial Road Unit 11 Cambridge, ON N3H 4W5 CANADA",
+  "phone": "(905) 659-2577",
+  "website": "https://www.altrarentals.com"
+  },
+  {
+  "name": "Altra Construction Rentals Inc. (Hamilton - Parkdale)",
+  "category": "Construction",
+  "address": "647 Parkdale Avenue North Hamilton, ON L8H 5Z1 CANADA",
+  "phone": "(905) 659-2577",
+  "website": "https://www.altrarentals.com"
+  },
+  {
+  "name": "Altra Construction Rentals Inc. (Oldcastle)",
+  "category": "Construction",
+  "address": "5125 Hennin Street Oldcastle, ON N0R 1L0 CANADA",
+  "phone": "(905) 659-2577",
+  "website": "https://www.altrarentals.com"
+  },
+  {
+  "name": "Altra Construction Rentals Inc. (St. Catharines)",
+  "category": "Construction",
+  "address": "243 Church Street St. Catharines, ON L2R 3E8 CANADA",
+  "phone": "(905) 659-2577",
+  "website": "https://www.altrarentals.com"
+  },
+  {
+  "name": "Ant Equipment Rentals Ltd",
+  "category": "Construction",
+  "address": "3149 Norland Avenue Burnaby, BC V5B 3A9 CANADA",
+  "phone": "(604) 404-8888",
+  "website": "https://www.ant.ca"
+  },
+  {
+  "name": "A-Plus Equipment Rentals Ltd.",
+  "category": "Construction",
+  "address": "2431 10 Avenue SW Medicine Hat, AB T1A 8G2 CANADA",
+  "phone": "(403) 526-0002",
+  "website": "https://www.aplusrentals.ca"
+  },
+  {
+  "name": "Atelier de Location Turbo Inc.",
+  "category": "Construction",
+  "address": "4300 Rue Hogan Montreal, QC H2H 2N4 CANADA",
+  "phone": "(514) 598-8888",
+  "website": "https://www.locationturbo.com"
+  },
+  {
+  "name": "Atlantic Trailer & Equipment Ltd",
+  "category": "Construction",
+  "address": "8 Lintrose Place Mount Pearl, NL A1N 5K2 CANADA",
+  "phone": "(709) 745-3260",
+  "website": "https://www.atlantictrailer.ca"
+  },
+  {
+  "name": "ATS Traffic - British Columbia Ltd.",
+  "category": "Construction",
+  "address": "200-20351 Duncan Way Langley, BC V3A 7N3 CANADA",
+  "phone": "(604) 530-9908",
+  "website": "https://www.atstraffic.ca"
+  },
+  {
+  "name": "Avalon Industrial & Marine Supply Ltd. (Carbonear)",
+  "category": "Construction",
+  "address": "53 Goff Avenue Carbonear, NL A1Y 1A6 CANADA",
+  "phone": "(709) 596-6058",
+  "website": "https://www.avalonindustrialandmarine.ca"
+  },
+  {
+  "name": "Axiom Equipment Group",
+  "category": "Construction",
+  "address": "612 Railway Avenue Oxbow, SK S0C 2B0 CANADA",
+  "phone": "(306) 483-2305",
+  "website": "https://www.axiomequipmentgroup.com"
+  },
+  {
+  "name": "A-Z Rental Centre",
+  "category": "Construction",
+  "address": "184 Weber Street North Waterloo, ON N2J 3H4 CANADA",
+  "phone": "(519) 885-5590",
+  "website": "https://www.atozrental.ca"
+  },
+  {
+  "name": "B.C. Rentals Ltd. (Richmond)",
+  "category": "Construction",
+  "address": "2071 Viceroy Place Richmond, BC V6V 1Y9 CANADA",
+  "phone": "(604) 323-1222",
+  "website": "https://www.bcrentals.com"
+  },
+  {
+  "name": "B.C. Rentals Ltd. (Vancouver)",
+  "category": "Construction",
+  "address": "1322 Clark Drive Vancouver, BC V5L 3K8 CANADA",
+  "phone": "(604) 323-1222",
+  "website": "https://www.bcrentals.com"
+  },
+  {
+  "name": "Balzac Rentals",
+  "category": "Construction",
+  "address": "260130B Writing Creek Crescent Rocky View County, AB T4A 0M9 CANADA",
+  "phone": "(403) 226-0468",
+  "website": "https://www.balzacrentals.com"
+  },
+  {
+  "name": "Barrie Rent-All Inc.",
+  "category": "Construction",
+  "address": "134 Tiffin Street Barrie, ON L4N 2N4 CANADA",
+  "phone": "(705) 728-8585",
+  "website": "https://www.barrierentall.ca"
+  },
+  {
+  "name": "Bay Equipment Rentals (Lower Sackville)",
+  "category": "Construction",
+  "address": "295 Cobequid Road Lower Sackville, NS B4C 4E6 CANADA",
+  "phone": "(902) 864-7871",
+  "website": "https://www.bayrentals.ca"
+  },
+  {
+  "name": "Belmont Lift Inc.",
+  "category": "Construction",
+  "address": "840 Av Ellingham Pointe-Claire, QC H9R 3S4 CANADA",
+  "phone": "(514) 942-7711",
+  "website": "https://www.belmontlift.com"
+  },
+  {
+  "name": "Bercon Rentals (Hamilton)",
+  "category": "Construction",
+  "address": "420 Grays Road Hamilton, ON L8E 4H6 CANADA",
+  "phone": "(905) 560-5500",
+  "website": "https://www.berconrentals.ca"
+  },
+  {
+  "name": "Bercon Rentals (Etobicoke)",
+  "category": "Construction",
+  "address": "503 Carlingview Drive Etobicoke, ON M9W 5H2 CANADA",
+  "phone": "(905) 560-5500",
+  "website": "https://www.bercontrentals.ca"
+  },
+  {
+  "name": "Big Rock Rentals",
+  "category": "Construction",
+  "address": "80 Millennium Drive Suite 201 Quispamsis, NB E2E 4B1 CANADA",
+  "phone": "(506) 433-5709",
+  "website": "https://www.bigrockrentals.ca"
+  },
+  {
+  "name": "Bojak Équipement Inc.",
+  "category": "Construction",
+  "address": "125 Boul Des Bois-Francs N Victoriaville, QC G6P 1E6 CANADA",
+  "phone": "(819) 795-3000",
+  "website": "https://www.bojakequipement.com"
+  },
+  {
+  "name": "Brenton Rentals & Sales Ltd.",
+  "category": "Construction",
+  "address": "79 McGettigan P.O. Box 670 Marystown, NL A0E 2M0 CANADA",
+  "phone": "(709) 279-1260"
+  },
+  {
+  "name": "BRK Equipment Rentals Ltd.",
+  "category": "Construction",
+  "address": "903 2nd Street West Brooks, AB T1R 1B7 CANADA",
+  "phone": "(403) 362-4655",
+  "website": "https://www.brkrentalsbrooks.com"
+  },
+  {
+  "name": "Broadway Rentals",
+  "category": "Construction",
+  "address": "310 Broadway Avenue North Williams Lake, BC V2G 2Y7 CANADA",
+  "phone": "(250) 392-2662",
+  "website": "https://www.broadwayrentals.ca"
+  },
+  {
+  "name": "Brunswick Lift Rentals",
+  "category": "Construction",
+  "address": "581 Ferdinand Boulevard Dieppe, NB E1A 7G1 CANADA",
+  "phone": "(506) 859-6199",
+  "website": "https://www.brunswickliftrentals.ca"
+  },
+  {
+  "name": "Burelle Rentools",
+  "category": "Construction",
+  "address": "1031 Limoges Road Limoges, ON K0A 2M0 CANADA",
+  "phone": "(613) 443-5292",
+  "website": "https://www.burellerentools.com"
+  },
+  {
+  "name": "BushDog Equipment Ltd.",
+  "category": "Construction",
+  "address": "5185 216 Street Langley, BC V3A 2N4 CANADA",
+  "phone": "(604) 404-8888",
+  "website": "https://www.bushdogequipment.ca"
+  },
+  {
+  "name": "0887942 B.C. Ltd.",
+  "category": "Construction",
+  "address": "1005 Billeter Road Smithers, BC V0J 2N6 CANADA",
+  "phone": "(250) 847-5265"
+  },
+  {
+  "name": "Anand Infra Rentals",
+  "category": "Construction",
+  "address": "3 Leadership Drive Brampton, ON L6Y 5V1 CANADA",
+  "phone": "(647) 287-9896",
+  "website": "https://www.ainfrarentals.ca"
+  },
+  {
+  "name": "Action Rental",
+  "category": "Construction",
+  "address": "7448 County Road 17 P.O. Box 89 Wendover, ON K0A 3K0 CANADA",
+  "phone": "(613) 822-6222",
+  "website": "https://www.actionrental.ca"
+  },
+  {
+  "name": "1st Call Rentals, Ltd.",
+  "category": "Construction",
+  "address": "7547 Hedley Avenue Burnaby, BC V5E 2R1 CANADA",
+  "phone": "(778) 379-8939",
+  "website": "https://www.1stcallrentals.com"
+  },
+  {
+  "name": "TC Sales and Rental",
+  "category": "Construction",
+  "address": "19 Riverview Road Grand Falls-Windsor, NL A2A 1X4 CANADA",
+  "phone": "(709) 489-2002"
+  },
+  {
+  "name": "A & B Tool Rentals Ltd. (Surrey)",
+  "category": "Construction",
+  "address": "10498 King George Blvd Surrey, BC V3T 2W9 CANADA",
+  "phone": "(778) 395-7368",
+  "website": "https://www.abtoolrentals.com"
+  },
+  {
+  "name": "A & B Tool Rentals Ltd. (Vancouver - Barnard)",
+  "category": "Construction",
+  "address": "8695 Barnard Street Vancouver, BC V6P 5G6 CANADA",
+  "phone": "(778) 395-7368",
+  "website": "https://www.abtoolrentals.com"
+  },
+  {
+  "name": "A & B Tool Rentals Ltd. (Vancouver - Venables)",
+  "category": "Construction",
+  "address": "1331 Venables Street Vancouver, BC V5L 2G1 CANADA",
+  "phone": "(778) 395-7368",
+  "website": "https://www.abtoolrentals.com"
+  },
+  {
+  "name": "A A Rentals & Supply Ltd.",
+  "category": "Construction",
+  "address": "P.O. Box 5124 Stn A Calgary, AB T2H 1X3 CANADA",
+  "phone": "(403) 253-3326",
+  "website": "https://www.aarentalandsupply.com"
+  },
+  {
+  "name": "A to Z Rental Centre Ltd. (Fredericton)",
+  "category": "Construction",
+  "address": "904 Prospect Street Fredericton, NB E3B 2T8 CANADA",
+  "phone": "(506) 452-9758",
+  "website": "https://www.atozrentalcentre.ca"
+  },
+  {
+  "name": "A World of Rentals Inc.",
+  "category": "Construction",
+  "address": "154 Railway Street Kingston, ON K7K 2L9 CANADA",
+  "phone": "(613) 547-4400",
+  "website": "https://www.aworldofrentals.ca"
+  },
+  {
+  "name": "Able Equipment Rentals",
+  "category": "Construction",
+  "address": "4311 Buchanan Street Burnaby, BC V5C 3X7 CANADA",
+  "phone": "(604) 299-8358",
+  "website": "https://www.unitedrentals.com/able-equipment-rental"
+  },
+  {
+  "name": "Ace Leasing Ltd. (Bathurst)",
+  "category": "Construction",
+  "address": "1935 Connolly Avenue Bathurst, NB E2A 4W7 CANADA",
+  "phone": "(506) 546-9874"
+  },
+  {
+  "name": "Ace Leasing Ltd. (Miramichi)",
+  "category": "Construction",
+  "address": "300 Dalton Avenue Miramichi, NB E1V 3N9 CANADA",
+  "phone": "(506) 622-1025",
+  "website": "https://www.ace-rentals.ca"
+  },
+  {
+  "name": "Acro Aerials Inc.",
+  "category": "Construction",
+  "address": "1-630 Rivermede Road Concord, ON L4K 2H7 CANADA",
+  "phone": "(416) 410-7630",
+  "website": "https://www.acroaerials.com"
+  },
+  {
+  "name": "Action Rentals",
+  "category": "Construction",
+  "address": "914 Trans Canada Hwy. Sicamous, BC V0E 2V0 CANADA",
+  "phone": "(250) 836-3800",
+  "website": "https://www.napacanada.com"
+  },
+  {
+  "name": "Active Rent-All",
+  "category": "Construction",
+  "address": "1905 Cariboo Hwy 97N Quesnel, BC V2J 3P2 CANADA",
+  "phone": "(250) 992-5303",
+  "website": "https://www.activerentall.ca"
+  },
+  {
+  "name": "Agcon Equipment",
+  "category": "Construction",
+  "address": "90 Lakeside Road Navin, MB R5T 0E2 CANADA",
+  "phone": "(204) 255-4772",
+  "website": "https://www.agconequipment.ca"
+  },
+  {
+  "name": "Alberta Construction Rentals",
+  "category": "Construction",
+  "address": "2619 7th Avenue NE Calgary, AB T2A 2L9 CANADA",
+  "phone": "(403) 455-6262",
+  "website": "https://www.acrentals.ca"
+  },
+  {
+  "name": "Al-Cha Rentals Inc.",
+  "category": "Construction",
+  "address": "1403 Pembroke Street West Pembroke, ON K8A 7A5 CANADA",
+  "phone": "(613) 735-0338",
+  "website": "https://www.cat.al-charentals.ca"
+  },
+  {
+  "name": "Alder rentals",
+  "category": "Construction",
+  "address": "2145 272 St Aldergrove, BC V4W 2N6 CANADA",
+  "phone": "(778) 878-4860"
+  },
+  {
+  "name": "All Choice Rentals Ltd. (Olds)",
+  "category": "Construction",
+  "address": "6970 - 46 Street Olds, AB T4H 1M6 CANADA",
+  "phone": "(403) 556-7717",
+  "website": "https://www.allchoice.ca"
+  },
+  {
+  "name": "All Choice Rentals Ltd. (Drayton Valley)",
+  "category": "Construction",
+  "address": "5513 50 Avenue Drayton Valley, AB T7A 1S2 CANADA",
+  "phone": "(403) 556-7717",
+  "website": "https://www.allchoice.ca"
+  },
+  {
+  "name": "All Choice Rentals Ltd. (Hinton)",
+  "category": "Construction",
+  "address": "396 Fleming Drive Hinton, AB T7V 0B1 CANADA",
+  "phone": "(403) 556-7717",
+  "website": "https://www.allchoice.ca"
+  },
+  {
+  "name": "All Choice Rentals Ltd. (Rocky Mountain House)",
+  "category": "Construction",
+  "address": "4903 - 43 Street Rocky Mountain House, AB T4T 1P4 CANADA",
+  "phone": "(403) 556-7717",
+  "website": "https://www.allchoice.ca"
+  },
+  {
+  "name": "All Choice Rentals Ltd. (Slave Lake)",
+  "category": "Construction",
+  "address": "2200 8 Street NE Slave Lake, AB T0G 2A2 CANADA",
+  "phone": "(403) 556-7717",
+  "website": "https://www.allchoice.ca"
+  },
+  {
+  "name": "All Choice Rentals Ltd. (St. Albert)",
+  "category": "Construction",
+  "address": "66 Riel Drive St. Albert, AB T8N 4A6 CANADA",
+  "phone": "(403) 556-7717",
+  "website": "https://www.allchoice.ca"
+  },
+  {
+  "name": "Altra Construction Rentals Inc. (Hamilton - Hempstead)",
+  "category": "Construction",
+  "address": "105 Hempstead Drive Hamilton, ON L8W 2Y6 CANADA",
+  "phone": "(905) 659-2577",
+  "website": "https://www.altrarentals.com"
+  },
+  {
+  "name": "Altra Construction Rentals Inc. (Cambridge)",
+  "category": "Construction",
+  "address": "1600 Industrial Road Unit 11 Cambridge, ON N3H 4W5 CANADA",
+  "phone": "(905) 659-2577",
+  "website": "https://www.altrarentals.com"
+  },
+  {
+  "name": "Altra Construction Rentals Inc. (Hamilton - Parkdale)",
+  "category": "Construction",
+  "address": "647 Parkdale Avenue North Hamilton, ON L8H 5Z1 CANADA",
+  "phone": "(905) 659-2577",
+  "website": "https://www.altrarentals.com"
+  },
+  {
+  "name": "Altra Construction Rentals Inc. (Oldcastle)",
+  "category": "Construction",
+  "address": "5125 Hennin Street Oldcastle, ON N0R 1L0 CANADA",
+  "phone": "(905) 659-2577",
+  "website": "https://www.altrarentals.com"
+  },
+  {
+  "name": "Altra Construction Rentals Inc. (St. Catharines)",
+  "category": "Construction",
+  "address": "243 Church Street St. Catharines, ON L2R 3E8 CANADA",
+  "phone": "(905) 659-2577",
+  "website": "https://www.altrarentals.com"
+  },
+  {
+  "name": "Ant Equipment Rentals Ltd",
+  "category": "Construction",
+  "address": "3149 Norland Avenue Burnaby, BC V5B 3A9 CANADA",
+  "phone": "(604) 404-8888",
+  "website": "https://www.ant.ca"
+  },
+  {
+  "name": "A-Plus Equipment Rentals Ltd.",
+  "category": "Construction",
+  "address": "2431 10 Avenue SW Medicine Hat, AB T1A 8G2 CANADA",
+  "phone": "(403) 526-0002",
+  "website": "https://www.aplusrentals.ca"
+  },
+  {
+  "name": "Atelier de Location Turbo Inc.",
+  "category": "Construction",
+  "address": "4300 Rue Hogan Montreal, QC H2H 2N4 CANADA",
+  "phone": "(514) 598-8888",
+  "website": "https://www.locationturbo.com"
+  },
+  {
+  "name": "Atlantic Trailer & Equipment Ltd",
+  "category": "Construction",
+  "address": "8 Lintrose Place Mount Pearl, NL A1N 5K2 CANADA",
+  "phone": "(709) 745-3260",
+  "website": "https://www.atlantictrailer.ca"
+  },
+  {
+  "name": "ATS Traffic - British Columbia Ltd.",
+  "category": "Construction",
+  "address": "200-20351 Duncan Way Langley, BC V3A 7N3 CANADA",
+  "phone": "(604) 530-9908",
+  "website": "https://www.atstraffic.ca"
+  },
+  {
+  "name": "Avalon Industrial & Marine Supply Ltd. (Carbonear)",
+  "category": "Construction",
+  "address": "53 Goff Avenue Carbonear, NL A1Y 1A6 CANADA",
+  "phone": "(709) 596-6058",
+  "website": "https://www.avalonindustrialandmarine.ca"
+  },
+  {
+  "name": "Axiom Equipment Group",
+  "category": "Construction",
+  "address": "612 Railway Avenue Oxbow, SK S0C 2B0 CANADA",
+  "phone": "(306) 483-2305",
+  "website": "https://www.axiomequipmentgroup.com"
+  },
+  {
+  "name": "A-Z Rental Centre",
+  "category": "Construction",
+  "address": "184 Weber Street North Waterloo, ON N2J 3H4 CANADA",
+  "phone": "(519) 885-5590",
+  "website": "https://www.atozrental.ca"
+  },
+  {
+  "name": "B.C. Rentals Ltd. (Richmond)",
+  "category": "Construction",
+  "address": "2071 Viceroy Place Richmond, BC V6V 1Y9 CANADA",
+  "phone": "(604) 323-1222",
+  "website": "https://www.bcrentals.com"
+  },
+  {
+  "name": "B.C. Rentals Ltd. (Vancouver)",
+  "category": "Construction",
+  "address": "1322 Clark Drive Vancouver, BC V5L 3K8 CANADA",
+  "phone": "(604) 323-1222",
+  "website": "https://www.bcrentals.com"
+  },
+  {
+  "name": "Balzac Rentals",
+  "category": "Construction",
+  "address": "260130B Writing Creek Crescent Rocky View County, AB T4A 0M9 CANADA",
+  "phone": "(403) 226-0468",
+  "website": "https://www.balzacrentals.com"
+  },
+  {
+  "name": "Barrie Rent-All Inc.",
+  "category": "Construction",
+  "address": "134 Tiffin Street Barrie, ON L4N 2N4 CANADA",
+  "phone": "(705) 728-8585",
+  "website": "https://www.barrierentall.ca"
+  },
+  {
+  "name": "Bay Equipment Rentals (Lower Sackville)",
+  "category": "Construction",
+  "address": "295 Cobequid Road Lower Sackville, NS B4C 4E6 CANADA",
+  "phone": "(902) 864-7871",
+  "website": "https://www.bayrentals.ca"
+  },
+  {
+  "name": "Belmont Lift Inc.",
+  "category": "Construction",
+  "address": "840 Av Ellingham Pointe-Claire, QC H9R 3S4 CANADA",
+  "phone": "(514) 942-7711",
+  "website": "https://www.belmontlift.com"
+  },
+  {
+  "name": "Bercon Rentals (Hamilton)",
+  "category": "Construction",
+  "address": "420 Grays Road Hamilton, ON L8E 4H6 CANADA",
+  "phone": "(905) 560-5500",
+  "website": "https://www.berconrentals.ca"
+  },
+  {
+  "name": "Bercon Rentals (Etobicoke)",
+  "category": "Construction",
+  "address": "503 Carlingview Drive Etobicoke, ON M9W 5H2 CANADA",
+  "phone": "(905) 560-5500",
+  "website": "https://www.bercontrentals.ca"
+  },
+  {
+  "name": "Big Rock Rentals",
+  "category": "Construction",
+  "address": "80 Millennium Drive Suite 201 Quispamsis, NB E2E 4B1 CANADA",
+  "phone": "(506) 433-5709",
+  "website": "https://www.bigrockrentals.ca"
+  },
+  {
+  "name": "Bojak Équipement Inc.",
+  "category": "Construction",
+  "address": "125 Boul Des Bois-Francs N Victoriaville, QC G6P 1E6 CANADA",
+  "phone": "(819) 795-3000",
+  "website": "https://www.bojakequipement.com"
+  },
+  {
+  "name": "Brenton Rentals & Sales Ltd.",
+  "category": "Construction",
+  "address": "79 McGettigan P.O. Box 670 Marystown, NL A0E 2M0 CANADA",
+  "phone": "(709) 279-1260"
+  },
+  {
+  "name": "BRK Equipment Rentals Ltd.",
+  "category": "Construction",
+  "address": "903 2nd Street West Brooks, AB T1R 1B7 CANADA",
+  "phone": "(403) 362-4655",
+  "website": "https://www.brkrentalsbrooks.com"
+  },
+  {
+  "name": "Broadway Rentals",
+  "category": "Construction",
+  "address": "310 Broadway Avenue North Williams Lake, BC V2G 2Y7 CANADA",
+  "phone": "(250) 392-2662",
+  "website": "https://www.broadwayrentals.ca"
+  },
+  {
+  "name": "Brunswick Lift Rentals",
+  "category": "Construction",
+  "address": "581 Ferdinand Boulevard Dieppe, NB E1A 7G1 CANADA",
+  "phone": "(506) 859-6199",
+  "website": "https://www.brunswickliftrentals.ca"
+  },
+  {
+  "name": "Burelle Rentools",
+  "category": "Construction",
+  "address": "1031 Limoges Road Limoges, ON K0A 2M0 CANADA",
+  "phone": "(613) 443-5292",
+  "website": "https://www.burellerentools.com"
+  },
+  {
+  "name": "BushDog Equipment Ltd.",
+  "category": "Construction",
+  "address": "5185 216 Street Langley, BC V3A 2N4 CANADA",
+  "phone": "(604) 534-1135",
+  "website": "https://www.bushdogequipment.com"
+  },
+  {
+  "name": "Butler Scaffolding & Rentool Inc.",
+  "category": "Construction",
+  "address": "5543 Bilby Street Halifax, NS B3K 1V4 CANADA",
+  "phone": "(902) 454-4549",
+  "website": "https://www.butlerscaffold.com"
+  },
+  {
+  "name": "BV Tool Rentals",
+  "category": "Construction",
+  "address": "7100A 3B Hwy Trail, BC V1R 4X2 CANADA",
+  "phone": "(250) 364-5661",
+  "website": "https://www.bvrentals.ca"
+  },
+  {
+  "name": "C & L Supply (1988) Ltd.",
+  "category": "Construction",
+  "address": "#330 - 1100 Homewood Road Campbell River, BC V9W 3N7 CANADA",
+  "phone": "(250) 287-9231",
+  "website": "https://www.clsupplyrentals.com"
+  },
+  {
+  "name": "Cahill Heating Rentals",
+  "category": "Construction",
+  "address": "7762 47 Avenue Close Red Deer, AB T4P 2J9 CANADA",
+  "phone": "(403) 356-1880",
+  "website": "https://www.cahillheatingrentals.com"
+  },
+  {
+  "name": "Caledonia Building Supplies",
+  "category": "Construction",
+  "address": "107 Greens Road Caledonia, ON N3W 1H8 CANADA",
+  "phone": "(905) 541-0148",
+  "website": "https://cbsgroup.ca"
+  },
+  {
+  "name": "CanLift Equipment Ltd. (Burlington)",
+  "category": "Construction",
+  "address": "4440 South Service Road Burlington, ON L7L 5R8 CANADA",
+  "phone": "(905) 338-5438",
+  "website": "https://www.canlift.ca"
+  },
+  {
+  "name": "CanLift Equipment Ltd. (London)",
+  "category": "Construction",
+  "address": "1875 Wharncliffe Road South London, ON N6L 1K2 CANADA",
+  "phone": "(905) 338-5438",
+  "website": "https://www.canlift.ca"
+  },
+  {
+  "name": "Carriere & Poirier Equipment Ltd.",
+  "category": "Construction",
+  "address": "5024 County Road 17 Alfred, ON K0B 1A0 CANADA",
+  "phone": "(613) 679-1103",
+  "website": "https://www.carrierepoirier.com"
+  },
+  {
+  "name": "Castle Rentals & Welding Supplies",
+  "category": "Construction",
+  "address": "248 58 Street Edson, AB T7E 1R8 CANADA",
+  "phone": "(780) 723-3535",
+  "website": "https://www.castlerental.net"
+  },
+  {
+  "name": "CBS Rentals Ltd.",
+  "category": "Construction",
+  "address": "181 Conception Bay Hwy Conception Bay South, NL A1W 3G7 CANADA",
+  "phone": "(709) 834-2323",
+  "website": "https://www.cbsrentals.ca"
+  },
+  {
+  "name": "CC Equipment Sales Ltd. (Surrey)",
+  "category": "Construction",
+  "address": "9546 190 Street Surrey, BC V4N 3S3 CANADA",
+  "phone": "(604) 322-3110",
+  "website": "https://www.ccequipment.ca"
+  },
+  {
+  "name": "Centre de Location GM Inc. (Saint-Jerome)",
+  "category": "Construction",
+  "address": "351, Boul. Lajeunesse Ouest Saint-Jerome, QC J7Y 4E4 CANADA",
+  "phone": "(450) 434-0505",
+  "website": "https://www.locationgm.ca"
+  },
+  {
+  "name": "Centre de Location GM Inc. (Sainte -Agathe)",
+  "category": "Construction",
+  "address": "1240 Rue Principale Est Route 117 Sainte-Agathe, QC J8C 1L8 CANADA",
+  "phone": "(450) 434-0505",
+  "website": "https://www.locationgm.ca"
+  },
+  {
+  "name": "Centre de Location GM Inc. (Sainte-Adele)",
+  "category": "Construction",
+  "address": "3340, Boul De Sainte-Adèle Route 117 Sainte-Adele, QC J8B 2N7 CANADA",
+  "phone": "(450) 434-0505",
+  "website": "https://www.locationgm.ca"
+  },
+  {
+  "name": "Centre de Location Idéale Enr.",
+  "category": "Construction",
+  "address": "169, Route 112 Westbury, QC J0B 1R0 CANADA",
+  "phone": "(819) 832-4958",
+  "website": "https://www.location-ideale@videotron.com"
+  },
+  {
+  "name": "Centre de Location Les Échafaudages B.S.L.",
+  "category": "Construction",
+  "address": "1063 Rue Du Phare Rimouski, QC G5M 1L9 CANADA",
+  "phone": "(418) 723-9567",
+  "website": "https://www.echafaudagesbsl.ca"
+  },
+  {
+  "name": "Location St-Zoutils",
+  "category": "Construction",
+  "address": "110, 69e Av, Suite B1 St-Zotique, QC J0P 1Z0 CANADA",
+  "phone": "(450) 316-6038",
+  "website": "https://www.st-zoutils.com"
+  },
+  {
+  "name": "Certified Equipment Sales Services & Rental Ltd.",
+  "category": "Construction",
+  "address": "2 Royalcrest Road Etobicoke, ON M9V 2L5 CANADA",
+  "phone": "(416) 747-7878",
+  "website": "https://www.certifiedequipment.com"
+  },
+  {
+  "name": "Classic Rentals Ltd.",
+  "category": "Construction",
+  "address": "244 Queen Street Truro, NS B2N 2B9 CANADA",
+  "phone": "(902) 895-4242",
+  "website": "https://www.classicrentals.ca"
+  },
+  {
+  "name": "Coleman Equipment",
+  "category": "Construction",
+  "address": "3541 Trussler Road New Dundee, ON N0B 2E0 CANADA",
+  "phone": "(519) 696-2213",
+  "website": "https://www.coleman-equipment.com"
+  },
+  {
+  "name": "Comox Rentals & Recreation Ltd",
+  "category": "Construction",
+  "address": "662 Anderton Road Comox, BC V9M 2J3 CANADA",
+  "phone": "(250) 339-4518",
+  "website": "https://www.comoxrentals.ca"
+  },
+  {
+  "name": "Compact Investments Ltd.",
+  "category": "Construction",
+  "address": "1173 Panorama Hills Landing NW Calgary, AB T3K 5P2 CANADA",
+  "phone": "(403) 816-7680"
+  },
+  {
+  "name": "Cooper Equipment Rentals",
+  "category": "Construction",
+  "address": "255 Longside Drive Unit 103 Mississauga, ON L5W 0G7 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (Abbotsford)",
+  "category": "Construction",
+  "address": "2777 Allwood Street Abbotsford, BC V2T 3S1 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (Airdrie)",
+  "category": "Construction",
+  "address": "104-2926 Kingsview Blvd SE Airdrie, AB T4A 0C9 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (Aldergrove - 26821 Old Yale)",
+  "category": "Construction",
+  "address": "26821 Old Yale Road Aldergrove, BC V4W 3E4 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (Aldergrove - 26869 Old Yale)",
+  "category": "Construction",
+  "address": "26869 Old Yale Road Aldergrove, BC V4W 3E4 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (Aldergrove - Fraser)",
+  "category": "Construction",
+  "address": "26875 Fraser Hwy Aldergrove, BC V4W 3E4 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (Anjou - 8531 Ray Lawson)",
+  "category": "Construction",
+  "address": "8531 Ray Lawson Anjou, QC H1J 1K6 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (Anjou - 8561 Ray Lawson)",
+  "category": "Construction",
+  "address": "8561 Ray Lawson Anjou, QC J4Y 0G5 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (Barrie)",
+  "category": "Construction",
+  "address": "39 Churchill Drive Barrie, ON L4N 8Y2 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (Bolton - Hardwick)",
+  "category": "Construction",
+  "address": "750 Hardwick Road Bolton, ON L7E 5R4 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (Bolton - Nixon)",
+  "category": "Construction",
+  "address": "40 Nixon Road Bolton, ON L7E 1W2 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (Bracebridge)",
+  "category": "Construction",
+  "address": "67 Armstrong Street Bracebridge, ON P1L 1C1 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (Brossard)",
+  "category": "Construction",
+  "address": "3350 Boul. Matte Brossard, QC J4Y 0G5 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (Burlington)",
+  "category": "Construction",
+  "address": "5315 North Service Road Burlington, ON L7L 6C1 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (Burnaby)",
+  "category": "Construction",
+  "address": "1886 Gilmore Avenue Burnaby, BC V5C 4T4 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (Calgary - Frontier)",
+  "category": "Construction",
+  "address": "240099 Frontier Crescent Calgary, AB T1X 0W2 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (Calgary - Southland)",
+  "category": "Construction",
+  "address": "570 Southland Drive SW Calgary, AB T2W 0J8 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (Chilliwack)",
+  "category": "Construction",
+  "address": "45905 Hocking Avenue Unit 101 Chilliwack, BC V2P 1B5 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (Dartmouth)",
+  "category": "Construction",
+  "address": "590 Windmill Road Dartmouth, NS B3B 1B5 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (Edmonton - 118A Avenue)",
+  "category": "Construction",
+  "address": "20704 118A Avenue NW Edmonton, AB T5S 2S7 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (Edmonton - 209 Street)",
+  "category": "Construction",
+  "address": "10828 209 Street NW Edmonton, AB T5S 1Z9 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (Edmonton - 209 Street)",
+  "category": "Construction",
+  "address": "10828 209 Street NW Edmonton, AB T5S 1Z9 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (Edmonton - 24th Street)",
+  "category": "Construction",
+  "address": "8430 24th Street Edmonton, AB T6P 1X8 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (Edmonton - 8430 24 Street)",
+  "category": "Construction",
+  "address": "8430 24 Street NW Edmonton, AB T6P 1X8 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (Edmonton - 8706 24 Street)",
+  "category": "Construction",
+  "address": "8706 24 Street NW Edmonton, AB T6P 1X8 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (Etobicoke)",
+  "category": "Construction",
+  "address": "60 North Queen Street Etobicoke, ON M8Z 2C4 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (Gloucester)",
+  "category": "Construction",
+  "address": "4879 Bank Street Gloucester, ON K1X 1G7 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (Gormley)",
+  "category": "Construction",
+  "address": "12307 Woodbine Avenue South P.O. Box 556, R.R. #1 Gormley, ON L0H 1G0 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (Kamloops)",
+  "category": "Construction",
+  "address": "732 Athabasca St E Kamloops, BC V2H 1C9 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (Kapuskasing)",
+  "category": "Construction",
+  "address": "38 Riverside Drive Kapuskasing, ON P5N 1A6 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (Kingston)",
+  "category": "Construction",
+  "address": "805 Dalton Avenue Kingston, ON K7M 8N6 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (Kitchener - Courtland)",
+  "category": "Construction",
+  "address": "859 Courtland Avenue East Kitchener, ON N2C 1K4 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (Kitchener - Victoria)",
+  "category": "Construction",
+  "address": "1182 Victoria Street North Unit 3 Kitchener, ON N2B 3C9 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (Leduc)",
+  "category": "Construction",
+  "address": "7002-39 Street Leduc, AB T9E 0W1 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (Lethbridge)",
+  "category": "Construction",
+  "address": "429 39 Street North Lethbridge, AB T1H 5T2 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (Maple Ridge)",
+  "category": "Construction",
+  "address": "201308 Stewart Crescent Maple Ridge, BC V2X 0T4 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (Maple)",
+  "category": "Construction",
+  "address": "21 Rodinea Road Maple, ON L6A 1R3 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (Medicine Hat)",
+  "category": "Construction",
+  "address": "1289 Brier Parkway NW Medicine Hat, AB T1C 1S9 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (Mississauga)",
+  "category": "Construction",
+  "address": "5888 Shawson Drive Mississauga, ON L4W 3W5 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (Moncton)",
+  "category": "Construction",
+  "address": "229 Fiedmont Street Moncton, NB E1A 6N5 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (North Bay - Franklin)",
+  "category": "Construction",
+  "address": "1360 Franklin Street P.O. Box 1185 Station Main North Bay, ON P1B 8K4 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (Oshawa)",
+  "category": "Construction",
+  "address": "900 Farewell Street Oshawa, ON L1H 6N6 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (Ottawa - Doncaster)",
+  "category": "Construction",
+  "address": "5654 Doncaster Road Ottawa, ON K1G 3N4 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (Ottawa - Maple Creek)",
+  "category": "Construction",
+  "address": "205 Maple Creek Court Ottawa, ON K0A 1L0 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (Ottawa - Merivale)",
+  "category": "Construction",
+  "address": "1905 Merivale Road Ottawa, ON K2G 1E7 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (Ottawa - Sheffield)",
+  "category": "Construction",
+  "address": "2780 Sheffield Road Ottawa, ON K1B 3V9 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (Ottawa - Wellington)",
+  "category": "Construction",
+  "address": "927 Wellington Street West Ottawa, ON K1Y 2X5 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (Princeton)",
+  "category": "Construction",
+  "address": "229 David Brown Way Princeton, BC V0X 1W0 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (Revelstoke)",
+  "category": "Construction",
+  "address": "210 Hwy. 23 North P.O. Box 320 Revelstoke, BC V0E 2S0 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (Richmond)",
+  "category": "Construction",
+  "address": "12140 Vulcan Way Richmond, BC V6V 1J8 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (Rocky View County)",
+  "category": "Construction",
+  "address": "285113 Frontier Road Rocky View County, AB T1X 0W1 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (Rocky View)",
+  "category": "Construction",
+  "address": "285017 Bluegrass Drive Rocky View, AB T1X 0P5 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (Saint John)",
+  "category": "Construction",
+  "address": "165 McIlveen Drive Saint John, NB E2J 4Y7 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (Saint-Laurent)",
+  "category": "Construction",
+  "address": "500 Montee De Liesse Saint-Laurent, QC H4T 1N8 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (Salmon Arm)",
+  "category": "Construction",
+  "address": "1670 10 Avenue SW Salmon Arm, BC V1E 1T4 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (Scotch Creek)",
+  "category": "Construction",
+  "address": "3838 Squilax-Anglemont Road Scotch Creek, BC V0E 3L0 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (Stoney Creek)",
+  "category": "Construction",
+  "address": "146 Upper Centennial Parkway South Stoney Creek, ON L8J 2T7 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (Stouffville)",
+  "category": "Construction",
+  "address": "47 Cardico Drive Stouffville, ON L4A 2G5 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (Sudbury)",
+  "category": "Construction",
+  "address": "22 Pacific Avenue Sudbury, ON P3C 3H9 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (Surrey - 2283 King George)",
+  "category": "Construction",
+  "address": "2283 King George Hwy Surrey, BC V4A 5A4 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (Surrey - 6786 King George)",
+  "category": "Construction",
+  "address": "6786 King George Hwy Surrey, BC V3W 4Z5 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (Taber)",
+  "category": "Construction",
+  "address": "6003D 60 Avenue Taber, AB T1G 2C1 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (Thorold)",
+  "category": "Construction",
+  "address": "296 Collier Road South Unit 16 Thorold, ON L2V 5B6 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (Timmins)",
+  "category": "Construction",
+  "address": "2001 Riverside Drive Timmins, ON P4R 0A3 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (Toronto - Brimley)",
+  "category": "Construction",
+  "address": "1750 Brimley Road Toronto, ON M1P 4X7 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (Toronto - Carlaw)",
+  "category": "Construction",
+  "address": "4 Carlaw Avenue Unit 4 Toronto, ON M4M 2R5 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (Toronto - Manville)",
+  "category": "Construction",
+  "address": "115 Manville Road Toronto, ON M1L 4J7 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (Toronto - Racine)",
+  "category": "Construction",
+  "address": "40 Racine Road Toronto, ON M9W 2Z3 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (Vancouver - Lougheed)",
+  "category": "Construction",
+  "address": "3525 Lougheed Hwy Vancouver, BC V5M 2A6 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (Vancouver - Production)",
+  "category": "Construction",
+  "address": "5585 Production Blvd Vancouver, BC V3S 8P6 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Cooper Equipment Rentals (West Kelowna)",
+  "category": "Construction",
+  "address": "1834 Byland Road West Kelowna, BC V1Z 3E5 CANADA",
+  "phone": "(289) 247-2770",
+  "website": "https://www.cooperequipment.ca"
+  },
+  {
+  "name": "Core Rental Services (Saskatoon)",
+  "category": "Construction",
+  "address": "37574 Range Road 3053 Saskatoon, SK S7K 3J7 CANADA",
+  "phone": "(306) 975-0550",
+  "website": "https://www.corerentalservices.com"
+  },
+  {
+  "name": "Core Rental Services (Swift Current)",
+  "category": "Construction",
+  "address": "1972 North Railway Street West Swift Current, SK S9H 5G6 CANADA",
+  "phone": "(306) 975-0550",
+  "website": "https://www.corerentalservices.com"
+  },
+  {
+  "name": "CRC Rents 2015 Ltd.",
+  "category": "Construction",
+  "address": "1-41070 Cook Road Rocky View County Cochrane, AB T4C 3A2 CANADA",
+  "phone": "(403) 851-9997",
+  "website": "https://www.crcrents.com"
+  },
+
+
+  {
+  "name": "Creekside Rentals",
+  "category": "Construction",
+  "address": "309 David Winkler Parkway Box 218 Neustadt, ON N0G 2M0 CANADA",
+  "phone": "(519) 799-3478",
+  "website": "https://www.creeksiderentals.ca"
+  },
+  {
+  "name": "Dan's Equipment",
+  "category": "Construction",
+  "address": "21548 Township Road 510 Sherwood Park, AB T8E 1G7 CANADA",
+  "phone": "(780) 717-8586",
+  "website": "https://www.dansequipment.ca"
+  },
+  {
+  "name": "Distribution Michel Jette Inc.",
+  "category": "Construction",
+  "address": "1425 Boul. Foucault Drummondville, QC J2C 1B2 CANADA",
+  "phone": "(819) 472-2221",
+  "website": "https://www.dmjweb.ca"
+  },
+  {
+  "name": "Double Edge Rentals",
+  "category": "Construction",
+  "address": "5801 - 63 Avenue Lloydminster, AB T9V 3T7 CANADA",
+  "phone": "(587) 217-7368",
+  "website": "https://www.doubleedgerentals.com"
+  },
+  {
+  "name": "Double R Rentals (1998) Ltd.",
+  "category": "Construction",
+  "address": "4836 Elliott Street Delta, BC V4K 2X7 CANADA",
+  "phone": "(604) 946-4011",
+  "website": "https://www.doublerrentals.com"
+  },
+  {
+  "name": "Double R Rentals (1998) Ltd. (Delta - Vantage)",
+  "category": "Construction",
+  "address": "7543 Vantage Place Delta, BC V4G 1A5 CANADA",
+  "phone": "(604) 946-4011",
+  "website": "https://www.doublerrentals.com"
+  },
+  {
+  "name": "Downrite Renovations",
+  "category": "Construction",
+  "address": "676 Old Sackville Road Lower Sackville, NS B4C 2K3 CANADA",
+  "phone": "(902) 497-7818"
+  },
+  {
+  "name": "Driven Equipment Ltd.",
+  "category": "Construction",
+  "address": "PMB 309, 14-900 Village Lane Okotoks, AB T1S 1Z6 CANADA",
+  "phone": "(403) 389-1321",
+  "website": "https://www.drivenequipmentltd.com"
+  },
+  {
+  "name": "Dynamic Equipment Rentals (North Vancouver)",
+  "category": "Construction",
+  "address": "1525 Welch Street North Vancouver, BC V7P 1B5 CANADA",
+  "phone": "(604) 985-9321",
+  "website": "https://www.dynamic-rentals.com"
+  },
+  {
+  "name": "Dynamic Equipment Rentals (Port Coquitlam)",
+  "category": "Construction",
+  "address": "1753 McLean Avenue Port Coquitlam, BC V3C 1N1 CANADA",
+  "phone": "(604) 985-9321",
+  "website": "https://www.dynamic-rentals.com"
+  },
+  {
+  "name": "Dynamic Equipment Rentals (West Vancouver)",
+  "category": "Construction",
+  "address": "1483 Clyde Avenue West Vancouver, BC V7T 1E9 CANADA",
+  "phone": "(604) 985-9321",
+  "website": "https://www.dynamic-rentals.com"
+  },
+  {
+  "name": "Echo Rental & Supply Ltd.",
+  "category": "Construction",
+  "address": "1346 Kelly Lake Road Sudbury, ON P3E 5P4 CANADA",
+  "phone": "(705) 673-9500"
+  },
+  {
+  "name": "Economy Rental Centre Ltd.",
+  "category": "Construction",
+  "address": "232 Talbot Street West Leamington, ON N8H 1P1 CANADA",
+  "phone": "(519) 322-2319",
+  "website": "https://www.economyrentalcentre.com"
+  },
+  {
+  "name": "Edge1 Equipment Rentals (Stoney Creek)",
+  "category": "Construction",
+  "address": "330 Fruitland Road Stoney Creek, ON L8E 5M8 CANADA",
+  "phone": "(905) 561-2481",
+  "website": "https://www.edge1.ca"
+  },
+  {
+  "name": "Edge1 Equipment Rentals (Mississauga)",
+  "category": "Construction",
+  "address": "1252 Shawson Drive Mississauga, ON L4W 1C3 CANADA",
+  "phone": "(905) 561-2481",
+  "website": "https://www.edge1.ca"
+  },
+  {
+  "name": "Electrotek Inc. / Location Shalka Rental",
+  "category": "Construction",
+  "address": "4726 Ste-Catherine Saint-Isidore, ON K0C 2B0 CANADA",
+  "phone": "(613) 524-3025",
+  "website": "https://www.electrotekinc.com"
+  },
+  {
+  "name": "Elmvale Rental Supply",
+  "category": "Construction",
+  "address": "120 Younge Street North Elmvale, ON L0L 1P0 CANADA",
+  "phone": "(705) 322-5800",
+  "website": "https://www.elmvalerentalsupply.com"
+  },
+  {
+  "name": "Emco Machinery & Rentals Inc.",
+  "category": "Construction",
+  "address": "6659 Avenue Du Parc Montreal, QC H2V 4J1 CANADA",
+  "phone": "(514) 270-7101",
+  "website": "https://www.emcomachinery.com"
+  },
+  {
+  "name": "Enderby Rentals Ltd.",
+  "category": "Construction",
+  "address": "601 Hubert Avenue Enderby, BC V0E 1V0 CANADA",
+  "phone": "(250) 838-7328",
+  "website": "https://www.enderbyrentals.ca"
+  },
+  {
+  "name": "Envoy Rentals (Spruce Grove)",
+  "category": "Construction",
+  "address": "225 South Avenue Spruce Grove, AB T7X 3A9 CANADA",
+  "phone": "(780) 962-1003",
+  "website": "https://www.envoyrentals.ca"
+  },
+  {
+  "name": "Envoy Rentals (Sherwood Park)",
+  "category": "Construction",
+  "address": "185 Turbo Drive Sherwood Park, AB T8H 2J6 CANADA",
+  "phone": "(780) 962-1003",
+  "website": "https://www.envoyrentals.ca"
+  },
+  {
+  "name": "Équipement Belzile Inc.",
+  "category": "Construction",
+  "address": "508 Rte. 132 Ouest Amqui, QC G5J 2G7 CANADA",
+  "phone": "(418) 629-5738",
+  "website": "https://www.equipementbelzile.com"
+  },
+  {
+  "name": "Équipement Industriel ELT",
+  "category": "Construction",
+  "address": "15 Rue Jean Allard Métabetchouan-Lac-à-la-Croix, QC G8G 0B7 CANADA",
+  "phone": "(418) 349-2049",
+  "website": "https://www.eielt.ca"
+  },
+  {
+  "name": "Équipement L.A.V. Inc.",
+  "category": "Construction",
+  "address": "1660 Boul. Wilfrid-Hamel Quebec, QC G1N 3Y6 CANADA",
+  "phone": "(418) 681-7346",
+  "website": "https://www.lav.qc.ca"
+  },
+  {
+  "name": "Équipements André Lacasse Inc",
+  "category": "Construction",
+  "address": "81 Rte Des Seigneurs Saint-André-D'Argenteuil, QC J0V 1X0 CANADA",
+  "phone": "(450) 537-1777"
+  },
+  {
+  "name": "Équipements Brossard (Candiac)",
+  "category": "Construction",
+  "address": "107 Avenue Liberte Candiac, QC J5R 3X8 CANADA",
+  "phone": "(450) 678-3385",
+  "website": "https://www.equipementsbrossard.com"
+  },
+  {
+  "name": "Équipements Brossard (Brossard)",
+  "category": "Construction",
+  "address": "5800 Boul. Taschereau Brossard, QC J4W 1M6 CANADA",
+  "phone": "(450) 678-3385",
+  "website": "https://www.equipementsbrossard.com"
+  },
+  {
+  "name": "Équipements Brossard (Delson)",
+  "category": "Construction",
+  "address": "33, Route 132 Delson, QC J5B 1G9 CANADA",
+  "phone": "(450) 678-3385",
+  "website": "https://www.equipementsbrossard.com"
+  },
+  {
+  "name": "Équipements Brossard (Longueuil)",
+  "category": "Construction",
+  "address": "770 Taschereau Blvd. Longueuil, QC J4K 2W9 CANADA",
+  "phone": "(450) 678-3385",
+  "website": "https://www.equipementsbrossard.com"
+  },
+  {
+  "name": "Équipements Brossard (Saint-Hubert)",
+  "category": "Construction",
+  "address": "3905 Montee Saint-Hubert Saint-Hubert, QC J3Y 4K2 CANADA",
+  "phone": "(450) 678-3385",
+  "website": "https://www.equipementsbrossard.com"
+  },
+  {
+  "name": "Équipements Paquet",
+  "category": "Construction",
+  "address": "144 Av Saint-Jacques St-Raymond, QC G3L 3Y3 CANADA",
+  "phone": "(418) 337-8101",
+  "website": "https://www.equipementspaquet.com"
+  },
+  {
+  "name": "Equipment Centre Ltd. (Simcoe)",
+  "category": "Construction",
+  "address": "4-505 Queensway West Simcoe, ON N3Y 4R5 CANADA",
+  "phone": "(519) 428-0460",
+  "website": "https://www.equipmentcentre.ca"
+  },
+  {
+  "name": "Equipment Centre Ltd. (Tillsonburg)",
+  "category": "Construction",
+  "address": "41 John Pound Road Tillsonburg, ON N4G 4G8 CANADA",
+  "phone": "(519) 428-0460",
+  "website": "https://www.equipmentcentre.ca"
+  },
+  {
+  "name": "Equipment Corps Inc. (Stoney Creek)",
+  "category": "Construction",
+  "address": "1256 Arvin Avenue Stoney Creek, ON L8E 0H7 CANADA",
+  "phone": "(905) 545-1234",
+  "website": "https://www.equipmentcorps.com"
+  },
+  {
+  "name": "Equipment Corps Inc. (Acheson)",
+  "category": "Construction",
+  "address": "9506 - 266 Street Acheson, AB T7X 6H9 CANADA",
+  "phone": "(905) 545-1234",
+  "website": "https://www.equipmentcorps.com"
+  },
+  {
+  "name": "Equipment Corps Inc. (Paradise)",
+  "category": "Construction",
+  "address": "1205 Kenmount Road Paradise, NL A1L 2E6 CANADA",
+  "phone": "(905) 545-1234",
+  "website": "https://www.equipmentcorps.com"
+  },
+  {
+  "name": "Equipment World Inc.",
+  "category": "Construction",
+  "address": "980 Alloy Drive Thunder Bay, ON P7B 6A5 CANADA",
+  "phone": "(807) 623-9561",
+  "website": "https://www.equipworld.com"
+  },
+  {
+  "name": "Equipment World Inc. (Sault Ste. Marie)",
+  "category": "Construction",
+  "address": "235 Drive In Road Sault Ste. Marie, ON P6B 5X5 CANADA",
+  "phone": "(807) 623-9561",
+  "website": "https://www.equipworld.com"
+  },
+  {
+  "name": "Equipment World Inc. (Sudbury)",
+  "category": "Construction",
+  "address": "1130 Lorne Street Sudbury, ON P3C 4S9 CANADA",
+  "phone": "(807) 623-9561",
+  "website": "https://www.equipworld.com"
+  },
+  {
+  "name": "Equipment World Inc. (Thunder Bay - Roland)",
+  "category": "Construction",
+  "address": "1185 Roland Street Thunder Bay, ON P7B 5M5 CANADA",
+  "phone": "(807) 623-9561",
+  "website": "https://www.equipworld.com"
+  },
+  {
+  "name": "Equipro",
+  "category": "Construction",
+  "address": "167 Boul. Laurier Laurier-Station, QC G0S 1N0 CANADA",
+  "phone": "(418) 728-4421",
+  "website": "https://www.locationequipro.ca"
+  },
+  {
+  "name": "Euro-Lift Rentals & Sales, Inc.",
+  "category": "Construction",
+  "address": "142 Armstrong Avenue Georgetown, ON L7G 4S3 CANADA",
+  "phone": "(416) 414-7456",
+  "website": "https://www.euro-lift.ca"
+  },
+  {
+  "name": "Expedition Rentals",
+  "category": "Construction",
+  "address": "4915 101 Ave NW Edmonton, AB T6A 0L6 CANADA",
+  "phone": "(780) 932-2746",
+  "website": "https://www.expeditionrentals.ca"
+  },
+  {
+  "name": "Ren-Con Rentals",
+  "category": "Construction",
+  "address": "4509 25 Avenue Vernon, BC V1T 1P5 CANADA",
+  "phone": "(250) 545-9108",
+  "website": "https://www.rencon.ca"
+  },
+  {
+  "name": "Ren-Con",
+  "category": "Construction",
+  "address": "275 Okanagan Avenue East Penticton, BC V2A 3J8 CANADA",
+  "phone": "(250) 545-9108",
+  "website": "https://www.rencon.ca"
+  },
+  {
+  "name": "Fernie Rental Equipment and Sales Ltd.",
+  "category": "Construction",
+  "address": "84 Ridgemont Dr Fernie, BC V0B 1M2 CANADA",
+  "phone": "(250) 423-0984"
+  },
+  {
+  "name": "Festival City Rentals Inc.",
+  "category": "Construction",
+  "address": "388 Romeo Street South Stratford, ON N5A 4T9 CANADA",
+  "phone": "(519) 272-2360",
+  "website": "https://www.festivalcityrentals.com"
+  },
+  {
+  "name": "First Stop Tool & Equipment Rentals Ltd.",
+  "category": "Construction",
+  "address": "5881 Ottawa Regional Road 19 Kemptville, ON K0G 1J0 CANADA",
+  "phone": "(613) 258-4152",
+  "website": "https://www.firststoprentals.com"
+  },
+  {
+  "name": "Fisk Repair and Rental 2023 Ltd.",
+  "category": "Construction",
+  "address": "1355 Coteau Avenue West Weyburn, SK S4H 2T9 CANADA",
+  "phone": "(306) 842-4466",
+  "website": "https://www.fiskrepair.ca"
+  },
+  {
+  "name": "Flaman Rentals (Yorkton)",
+  "category": "Construction",
+  "address": "Hwy 16 E - Hwy 9S Yorkton, SK S3N 2X3 CANADA",
+  "phone": "(306) 783-1689",
+  "website": "https://www.flaman.com"
+  },
+  {
+  "name": "Flaman Rentals (Edmonton)",
+  "category": "Construction",
+  "address": "8910 Yellowhead Trail NW Edmonton, AB T5B 1G2 CANADA",
+  "phone": "(306) 783-1689",
+  "website": "https://www.flaman.com"
+  },
+  {
+  "name": "Flaman Rentals (Lethbridge)",
+  "category": "Construction",
+  "address": "16 Broxburn Blvd. Lethbridge, AB T1J 4P4 CANADA",
+  "phone": "(306) 783-1689",
+  "website": "https://www.flaman.com"
+  },
+  {
+  "name": "Flaman Rentals (Nisku)",
+  "category": "Construction",
+  "address": "2310 Sparrow Drive Nisku, AB T9E 8A2 CANADA",
+  "phone": "(306) 783-1689",
+  "website": "https://www.flaman.com"
+  },
+  {
+  "name": "Flaman Rentals (Prince Albert)",
+  "category": "Construction",
+  "address": "Highway 2 S P.O. Box 1987 Stn Main Prince Albert, SK S6V 6K1 CANADA",
+  "phone": "(306) 783-1689",
+  "website": "https://www.flaman.com"
+  },
+  {
+  "name": "Flaman Rentals (Saskatoon)",
+  "category": "Construction",
+  "address": "RR 4 Lcd Main Hwy 16 & 71st Street Site 412 Box 250 Saskatoon, SK S7K 3J7 CANADA",
+  "phone": "(306) 783-1689",
+  "website": "https://www.flaman.com"
+  },
+  {
+  "name": "Flaman Rentals (Southey)",
+  "category": "Construction",
+  "address": "Highway 6 Southey, SK S0G 4P0 CANADA",
+  "phone": "(306) 783-1689",
+  "website": "https://www.flaman.com"
+  },
+  {
+  "name": "Flaman Rentals (Swan River)",
+  "category": "Construction",
+  "address": "Hwy 83 A Swan River, MB R0L 1Z0 CANADA",
+  "phone": "(306) 783-1689",
+  "website": "https://www.flaman.com"
+  },
+  {
+  "name": "Foothills Rentals",
+  "category": "Construction",
+  "address": "9201-106 Avenue La Crête, AB T0H 2H0 CANADA",
+  "phone": "(780) 928-4760"
+  },
+  {
+  "name": "Four Season Rental & Repair Inc.",
+  "category": "Construction",
+  "address": "913 5th Street P.O. Box 639 Estevan, SK S4A 2A5 CANADA",
+  "phone": "(306) 634-7922"
+  },
+  {
+  "name": "Fromme Construction Ltd. O/A Arnold's Rentals Ltd.",
+  "category": "Construction",
+  "address": "7141A Mershon Street Mission, BC V2V 6K2 CANADA",
+  "phone": "(604) 826-1199"
+  },
+  {
+  "name": "GA Equipment Rentals Inc",
+  "category": "Construction",
+  "address": "2078 Perth Line 43 Stratford, ON N5A 6S2 CANADA",
+  "phone": "(519) 276-3610"
+  },
+  {
+  "name": "Gegra Equipment Ltd. (Burnaby)",
+  "category": "Construction",
+  "address": "5971 Beresford Street Burnaby, BC V5J 1K4 CANADA",
+  "phone": "(604) 437-9468",
+  "website": "https://www.gegra.ca"
+  },
+  {
+  "name": "Gegra Equipment Ltd. (Fort St. John)",
+  "category": "Construction",
+  "address": "7224 100 Avenue Fort St. John, BC V1J 5T7 CANADA",
+  "phone": "(604) 437-9468",
+  "website": "https://www.gegra.ca"
+  },
+  {
+  "name": "Georgian Edge Equipment",
+  "category": "Construction",
+  "address": "79 County Road 6 South Tiny, ON L0L 2J0 CANADA",
+  "phone": "(705) 956-0224",
+  "website": "https://www.georgianedge.com"
+  },
+  {
+  "name": "GNS Equipment Rentals",
+  "category": "Construction",
+  "address": "1-541 Highway 2 Elmsdale, NS B2S 1A4 CANADA",
+  "phone": "(902) 883-8005",
+  "website": "https://www.gnsequipmentrentals.ca"
+  },
+  {
+  "name": "Golden Installations Ltd.",
+  "category": "Construction",
+  "address": "1027 11th Avenue North Golden, BC V0A 1H2 CANADA",
+  "phone": "(250) 344-5566",
+  "website": "https://www.goldeninstallations.ca"
+  },
+  {
+  "name": "Griffin Bros Truck & Equipment",
+  "category": "Construction",
+  "address": "219 Park Avenue East Dunnville, ON N1A 0A8 CANADA",
+  "phone": "(905) 229-2805",
+  "website": "https://www.griffinbte.ca"
+  },
+  {
+  "name": "GTA Equipment Rentals, Inc.",
+  "category": "Construction",
+  "address": "1429 Speers Road Oakville, ON L6L 2X5 CANADA",
+  "phone": "(905) 580-7368",
+  "website": "https://www.gtaequipment.ca"
+  },
+  {
+  "name": "Harrigan Rentals & Equipment Ltd. (Coquitlam)",
+  "category": "Construction",
+  "address": "1212 Austin Avenue Coquitlam, BC V3K 3P5 CANADA",
+  "phone": "(604) 931-0883",
+  "website": "https://www.harriganrentals.com"
+  },
+  {
+  "name": "Harvey and Company Ltd. (St. John's)",
+  "category": "Construction",
+  "address": "88 Kenmount Road St. John's, NL A1B 3R1 CANADA",
+  "phone": "(709) 738-8911",
+  "website": "https://www.harveyco.com"
+  },
+  {
+  "name": "Harvey and Company Ltd. (Corner Brook)",
+  "category": "Construction",
+  "address": "18 Maple Valley Road Corner Brook, NL A2H 3C2 CANADA",
+  "phone": "(709) 738-8911",
+  "website": "https://www.harveyco.com"
+  },
+  {
+  "name": "Heming Limited",
+  "category": "Construction",
+  "address": "2068 Lansdowne Street West Cavan Managhan, ON K9J 0G5 CANADA",
+  "phone": "(705) 742-6249",
+  "website": "https://www.hemingltd.ca"
+  },
+  {
+  "name": "Herc Rentals (Bonita Springs)",
+  "category": "Construction",
+  "address": "27500 Riverview Center Suite 100 Bonita Springs, FL 34134 UNITED STATES",
+  "phone": "(239) 301-1000",
+  "website": "https://www.hercrentals.com"
+  },
+  {
+  "name": "Herc Rentals (Ajax)",
+  "category": "Construction",
+  "address": "131 Dowty Road Ajax, ON L1S 2G3 CANADA",
+  "phone": "(239) 301-1000",
+  "website": "https://www.hercrentals.com"
+  },
+  {
+  "name": "Herc Rentals (Anzac)",
+  "category": "Construction",
+  "address": "118 Gilmore Drive Anzac, AB T0P 1J0 CANADA",
+  "phone": "(239) 301-1000",
+  "website": "https://www.hercrentals.com"
+  },
+  {
+  "name": "Herc Rentals (Bonnyville)",
+  "category": "Construction",
+  "address": "103-7301 50 Avenue Bonnyville, AB T9N 2P3 CANADA",
+  "phone": "(239) 301-1000",
+  "website": "https://www.hercrentals.com"
+  },
+  {
+  "name": "Herc Rentals (Brampton)",
+  "category": "Construction",
+  "address": "89 Heart Lake Road South Brampton, ON L6W 3K1 CANADA",
+  "phone": "(239) 301-1000",
+  "website": "https://www.hercrentals.com"
+  },
+  {
+  "name": "Herc Rentals (Calgary - 25 Street)",
+  "category": "Construction",
+  "address": "4747 25 Street SE Calgary, AB T2B 3R9 CANADA",
+  "phone": "(239) 301-1000",
+  "website": "https://www.hercrentals.com"
+  },
+  {
+  "name": "Herc Rentals (Calgary - Meridian)",
+  "category": "Construction",
+  "address": "116 Meridian Road SE Calgary, AB T2A 1X2 CANADA",
+  "phone": "(239) 301-1000",
+  "website": "https://www.hercrentals.com"
+  },
+  {
+  "name": "Herc Rentals (Cambridge)",
+  "category": "Construction",
+  "address": "500 Collier Macmillian Drive Cambridge, ON N3H 4R7 CANADA",
+  "phone": "(239) 301-1000",
+  "website": "https://www.hercrentals.com"
+  },
+  {
+  "name": "Herc Rentals (Edmonton - 50 Street)",
+  "category": "Construction",
+  "address": "7905 50 Street NW Edmonton, AB T6B 1E5 CANADA",
+  "phone": "(239) 301-1000",
+  "website": "https://www.hercrentals.com"
+  },
+  {
+  "name": "Herc Rentals (Edmonton - 61 Avenue)",
+  "category": "Construction",
+  "address": "8660 61 Avenue NW Edmonton, AB T6E 5P6 CANADA",
+  "phone": "(239) 301-1000",
+  "website": "https://www.hercrentals.com"
+  },
+  {
+  "name": "Herc Rentals (Edmonton - 67 Avenue)",
+  "category": "Construction",
+  "address": "5708 67 Avenue NW Edmonton, AB T6B 3P8 CANADA",
+  "phone": "(239) 301-1000",
+  "website": "https://www.hercrentals.com"
+  },
+  {
+  "name": "Herc Rentals (Etobicoke - Claireville)",
+  "category": "Construction",
+  "address": "35 Claireville Drive Etobicoke, ON M9W 5Z7 CANADA",
+  "phone": "(239) 301-1000",
+  "website": "https://www.hercrentals.com"
+  },
+  {
+  "name": "Herc Rentals (Etobicoke - Finch)",
+  "category": "Construction",
+  "address": "6900 Finch Avenue West Etobicoke, ON M9W 0A8 CANADA",
+  "phone": "(239) 301-1000",
+  "website": "https://www.hercrentals.com"
+  },
+  {
+  "name": "Herc Rentals (Fort McMurray)",
+  "category": "Construction",
+  "address": "105 MacKay Crescent Fort McMurray, AB T9H 4C9 CANADA",
+  "phone": "(239) 301-1000",
+  "website": "https://www.hercrentals.com"
+  },
+  {
+  "name": "Herc Rentals (Fort Saskatchewan)",
+  "category": "Construction",
+  "address": "11230 88 Avenue Fort Saskatchewan, AB T8L 3W5 CANADA",
+  "phone": "(239) 301-1000",
+  "website": "https://www.hercrentals.com"
+  },
+  {
+  "name": "Herc Rentals (Grande Prairie)",
+  "category": "Construction",
+  "address": "10801 78 Avenue Grande Prairie, AB T8W 2L2 CANADA",
+  "phone": "(239) 301-1000",
+  "website": "https://www.hercrentals.com"
+  },
+  {
+  "name": "Herc Rentals (Hamilton - Barton)",
+  "category": "Construction",
+  "address": "2418 Barton Street East Hamilton, ON L8E 2W7 CANADA",
+  "phone": "(239) 301-1000",
+  "website": "https://www.hercrentals.com"
+  },
+  {
+  "name": "Herc Rentals (Hamilton - Covington)",
+  "category": "Construction",
+  "address": "35 Covington Street Hamilton, ON L8E 2Y4 CANADA",
+  "phone": "(239) 301-1000",
+  "website": "https://www.hercrentals.com"
+  },
+  {
+  "name": "Herc Rentals (High River)",
+  "category": "Construction",
+  "address": "2015 10 Avenue SE High River, AB T1V 2A6 CANADA",
+  "phone": "(239) 301-1000",
+  "website": "https://www.hercrentals.com"
+  },
+  {
+  "name": "Herc Rentals (Hinton)",
+  "category": "Construction",
+  "address": "113 King Street Hinton, AB T7V 1G7 CANADA",
+  "phone": "(239) 301-1000",
+  "website": "https://www.hercrentals.com"
+  },
+  {
+  "name": "Herc Rentals (Kingston)",
+  "category": "Construction",
+  "address": "15 Terry Fox Drive Kingston, ON K7M 7K5 CANADA",
+  "phone": "(239) 301-1000",
+  "website": "https://www.hercrentals.com"
+  },
+  {
+  "name": "Herc Rentals (London)",
+  "category": "Construction",
+  "address": "26 Royce Court London, ON N6E 1L1 CANADA",
+  "phone": "(239) 301-1000",
+  "website": "https://www.hercrentals.com"
+  },
+  {
+  "name": "Herc Rentals (Oak Bluff)",
+  "category": "Construction",
+  "address": "24 South Landing Drive Oak Bluff, MB R4G 0C4 CANADA",
+  "phone": "(239) 301-1000",
+  "website": "https://www.hercrentals.com"
+  },
+  {
+  "name": "Herc Rentals (Oshawa)",
+  "category": "Construction",
+  "address": "411 Bloor Street West Oshawa, ON L1J 5Y5 CANADA",
+  "phone": "(239) 301-1000",
+  "website": "https://www.hercrentals.com"
+  },
+  {
+  "name": "Herc Rentals (Ottawa)",
+  "category": "Construction",
+  "address": "860 Belfast Road Ottawa, ON K1G 0Z6 CANADA",
+  "phone": "(239) 301-1000",
+  "website": "https://www.hercrentals.com"
+  },
+  {
+  "name": "Herc Rentals (Red Deer)",
+  "category": "Construction",
+  "address": "7899 Gaetz Avenue Red Deer, AB T4P 2S4 CANADA",
+  "phone": "(239) 301-1000",
+  "website": "https://www.hercrentals.com"
+  },
+  {
+  "name": "Herc Rentals (Regina)",
+  "category": "Construction",
+  "address": "625 Winnipeg Street North P.O. Box 1800 Stn Main Regina, SK S4P 3C6 CANADA",
+  "phone": "(239) 301-1000",
+  "website": "https://www.hercrentals.com"
+  },
+  {
+  "name": "Herc Rentals (Sarnia)",
+  "category": "Construction",
+  "address": "526 Vidal Street South Sarnia, ON N7T 2V6 CANADA",
+  "phone": "(239) 301-1000",
+  "website": "https://www.hercrentals.com"
+  },
+  {
+  "name": "Herc Rentals (Saskatoon)",
+  "category": "Construction",
+  "address": "3611 Arthur Rose Avenue Saskatoon, SK S7P 0A9 CANADA",
+  "phone": "(239) 301-1000",
+  "website": "https://www.hercrentals.com"
+  },
+  {
+  "name": "Herc Rentals (St. Catharines)",
+  "category": "Construction",
+  "address": "278 St. Paul Street West St. Catharines, ON L2S 2E7 CANADA",
+  "phone": "(239) 301-1000",
+  "website": "https://www.hercrentals.com"
+  },
+  {
+  "name": "Herc Rentals (Surrey)",
+  "category": "Construction",
+  "address": "12135 86 Avenue Surrey, BC V3W 3H8 CANADA",
+  "phone": "(239) 301-1000",
+  "website": "https://www.hercrentals.com"
+  },
+  {
+  "name": "Herc Rentals (Toronto)",
+  "category": "Construction",
+  "address": "6 Carlaw Avenue Toronto, ON M4M 2R5 CANADA",
+  "phone": "(239) 301-1000",
+  "website": "https://www.hercrentals.com"
+  },
+  {
+  "name": "Herc Rentals (Whitecourt)",
+  "category": "Construction",
+  "address": "5221 59 Street Whitecourt, AB T7S 1X7 CANADA",
+  "phone": "(239) 301-1000",
+  "website": "https://www.hercrentals.com"
+  },
+  {
+  "name": "Herc Rentals (Windsor)",
+  "category": "Construction",
+  "address": "5225 County Road 42 Windsor, ON N8N 2M1 CANADA",
+  "phone": "(239) 301-1000",
+  "website": "https://www.hercrentals.com"
+  },
+  {
+  "name": "Hiscock Rentals & Sales Inc.",
+  "category": "Construction",
+  "address": "75 Water Street P.O. Box 5394 St. John's, NL A1C 5W2 CANADA",
+  "phone": "(709) 726-1597",
+  "website": "https://www.hiscockrentals.ca"
+  },
+  {
+  "name": "Home Hardware Stores Ltd.",
+  "category": "Construction",
+  "address": "34 Henry Street West St. Jacobs, ON N0B 2N0 CANADA",
+  "phone": "(519) 664-4775",
+  "website": "https://www.homehardware.ca"
+  },
+  {
+  "name": "Alexandria Home Hardware Building Centre",
+  "category": "Construction",
+  "address": "3524 County Road #34 Alexandria, ON K0C 1A0 CANADA",
+  "phone": "(519) 664-4775",
+  "website": "https://www.homehardware.ca"
+  },
+  {
+  "name": "Arborg Home Hardware Building Centre",
+  "category": "Construction",
+  "address": "451 Main Street P.O. Box 1308 Arborg, MB R0C 0A0 CANADA",
+  "phone": "(519) 664-4775",
+  "website": "https://www.homehardware.ca"
+  },
+  {
+  "name": "Alcona Home Hardware Building Centre",
+  "category": "Construction",
+  "address": "840 Innisfil Beach Road Innisfil, ON L9S 2C3 CANADA",
+  "phone": "(519) 664-4775",
+  "website": "https://www.homehardware.ca"
+  },
+  {
+  "name": "Invermere Home Hardware Building Centre",
+  "category": "Construction",
+  "address": "9980 Arrow Road Box 40 Invermere, BC V0A 1K2 CANADA",
+  "phone": "(519) 664-4775",
+  "website": "https://www.homehardware.ca"
+  },
+  {
+  "name": "Centre de renovation Home Hardware de L'anse",
+  "category": "Construction",
+  "address": "118 Route 170 L'anse-Saint-Jean, QC G0V 1J0 CANADA",
+  "phone": "(519) 664-4775",
+  "website": "https://www.homehardware.ca"
+  },
+  {
+  "name": "Broadbent's Home Hardware Building Centre",
+  "category": "Construction",
+  "address": "Highway #7 West Marmora, ON K0K 2M0 CANADA",
+  "phone": "(519) 664-4775",
+  "website": "https://www.homehardware.ca"
+  },
+  {
+  "name": "Rice's Home Hardware",
+  "category": "Construction",
+  "address": "27 Collingwood Street East Meaford, ON N4L 1N5 CANADA",
+  "phone": "(519) 664-4775",
+  "website": "https://www.homehardware.ca"
+  },
+  {
+  "name": "Knights' Home Hardware Building Centre",
+  "category": "Construction",
+  "address": "206532 Highway 26 East Meaford, ON N4L 1W7 CANADA",
+  "phone": "(519) 664-4775",
+  "website": "https://www.homehardware.ca"
+  },
+  {
+  "name": "Valley Sports & Hardware",
+  "category": "Construction",
+  "address": "2004-6th Street Box 9 Rosthern, SK S0K 3R0 CANADA",
+  "phone": "(519) 664-4775",
+  "website": "https://www.homehardware.ca"
+  },
+  {
+  "name": "St. Laurent Home Hardware Building Centre Ltd",
+  "category": "Construction",
+  "address": "Corner Hwy. 6 and PR 415 Box 427 Saint Laurent, MB R0C 2S0 CANADA",
+  "phone": "(519) 664-4775",
+  "website": "https://www.homehardware.ca"
+  },
+  {
+  "name": "Miller's Home Hardware Building Centre",
+  "category": "Construction",
+  "address": "900 Main Street Sauble Beach, ON N0H 2G0 CANADA",
+  "phone": "(519) 664-4775",
+  "website": "https://www.homehardware.ca"
+  },
+  {
+  "name": "Smithville Home Hardware Building Centre",
+  "category": "Construction",
+  "address": "2646 Industrial Park Road Smithville, ON L0R 2A0 CANADA",
+  "phone": "(519) 664-4775",
+  "website": "https://www.homehardware.ca"
+  },
+  {
+  "name": "Sundre Home Hardware Building Centre",
+  "category": "Construction",
+  "address": "P.O. Box 629, Hwy #584 West Sundre, AB T0M 1X0 CANADA",
+  "phone": "(519) 664-4775",
+  "website": "https://www.homehardware.ca"
+  },
+  {
+  "name": "Industrial Power Rental",
+  "category": "Construction",
+  "address": "2-1271 Gorham Street Newmarket, ON L3Y 8Y7 CANADA",
+  "phone": "(905) 967-0300",
+  "website": "https://www.industrialpowerrental.ca"
+  },
+  {
+  "name": "Industrial Tools & Equipment Rentals",
+  "category": "Construction",
+  "address": "1745 Burlington Street East Hamilton, ON L8H 3L5 CANADA",
+  "phone": "(905) 545-6011",
+  "website": "https://www.iterentals.com"
+  },
+  {
+  "name": "Ingersoll Rent-All Inc.",
+  "category": "Construction",
+  "address": "108 Mutual Street Ingersoll, ON N5C 1S5 CANADA",
+  "phone": "(519) 485-4231",
+  "website": "https://ingersollrentall.ca"
+  },
+  {
+  "name": "Iv's Rental",
+  "category": "Construction",
+  "address": "Highway #16 South Russell, MB R0J 1W0 CANADA",
+  "phone": "(204) 773-3126",
+  "website": "https://wwwivsrentals.ca"
+  },
+  {
+  "name": "J & M Rentals",
+  "category": "Construction",
+  "address": "PR 30010 216 Grunthal, MB R0A 0R0 CANADA",
+  "phone": "(204) 434-6755",
+  "website": "https://www.jmrentals.net"
+  },
+  {
+  "name": "JAPA Equipment Rentals Inc.",
+  "category": "Construction",
+  "address": "10397 267 St Acheson, AB T7X 6A2 CANADA",
+  "phone": "(780) 962-5272"
+  },
+  {
+  "name": "Jasco Rentals",
+  "category": "Construction",
+  "address": "930 Tranquille Road Kamloops, BC V2B 3J5 CANADA",
+  "phone": "(250) 376-5506",
+  "website": "https://www.jascorentals.ca"
+  },
+  {
+  "name": "JDC",
+  "category": "Construction",
+  "address": "180 Healey Road Bolton, ON L7E 5B1 CANADA",
+  "phone": "(905) 857-7474",
+  "website": "https://www.teamjdc.com"
+  },
+  {
+  "name": "JT Equipment Corporation",
+  "category": "Construction",
+  "address": "9479 Endeavor Drive SE Calgary, AB T3S 0A1 CANADA",
+  "phone": "(587) 832-0772",
+  "website": "https://www.jtequip.ca"
+  },
+  {
+  "name": "Kelbern Supply & Rentals Inc.",
+  "category": "Construction",
+  "address": "140 Yellowhead Road Spruce Grove, AB T7X 0J5 CANADA",
+  "phone": "(780) 948-9448",
+  "website": "https://www.kelbern.ca"
+  },
+  {
+  "name": "Keltic Kubota",
+  "category": "Construction",
+  "address": "70 Dodd Street Sydney, NS B1P 1T6 CANADA",
+  "phone": "(902) 539-6006",
+  "website": "https://www.keltickubota.com"
+  },
+  {
+  "name": "Kennebecasis Rentals (1992) Ltd.",
+  "category": "Construction",
+  "address": "15 Leisure Drive Quispamsis, NB E2E 0T1 CANADA",
+  "phone": "(506) 847-2792",
+  "website": "https://www.landandleisure.ca"
+  },
+  {
+  "name": "Kerrisdale Equipment Ltd.",
+  "category": "Construction",
+  "address": "810-820 Marine Drive SW Vancouver, BC V6P 5Y8 CANADA",
+  "phone": "(604) 301-1321",
+  "website": "https://www.kerrisdaleequipment.com"
+  },
+  {
+  "name": "L.M. Generating Power Co. Ltd. (Mississauga)",
+  "category": "Construction",
+  "address": "1900 Shawson Drive Mississauga, ON L4W 1R7 CANADA",
+  "phone": "(905) 564-7322",
+  "website": "https://www.lmgenpower.com"
+  },
+  {
+  "name": "Lac La Biche Equipment Rentals Ltd.",
+  "category": "Construction",
+  "address": "67004 R.R. #142 Lac La Biche, AB T0A 2C0 CANADA",
+  "phone": "(780) 623-7225",
+  "website": "https://www.laclabicherentals.ca"
+  },
+  {
+  "name": "Laramee Rentals",
+  "category": "Construction",
+  "address": "70 10th Street NE Portage La Prairie, MB R1N 1B4 CANADA",
+  "phone": "(204) 857-3483",
+  "website": "https://www.laramees.ca"
+  },
+  {
+  "name": "Larry's Rentall Inc.",
+  "category": "Construction",
+  "address": "240 Ontario Street St Catharines, ON L2R 5L4 CANADA",
+  "phone": "(905) 984-5522",
+  "website": "https://www.larrysrentall.com"
+  },
+  {
+  "name": "Latremouille Tools & Rentals",
+  "category": "Construction",
+  "address": "315 New York Central Avenue Embrun, ON K0A 1W1 CANADA",
+  "phone": "(613) 443-3667",
+  "website": "https://www.latremouilletoolrentals.ca"
+  },
+  {
+  "name": "Leamington Equipment Rentals Ltd.",
+  "category": "Construction",
+  "address": "144 Oak Street West Leamington, ON N8H 2B6 CANADA",
+  "phone": "(519) 326-8241",
+  "website": "https://www.leamingtonrental.com"
+  },
+  {
+  "name": "Legacy Equipment Rentals Inc.",
+  "category": "Construction",
+  "address": "5445 97th Street Edmonton, AB T6E 3H8 CANADA",
+  "phone": "(780) 989-2662",
+  "website": "https://www.legacyequipment.ca"
+  },
+  {
+  "name": "Les Équipements ACMAT Inc.",
+  "category": "Construction",
+  "address": "273 Route 138 Cap-Sante, QC G0A 1L0 CANADA",
+  "phone": "(418) 285-4489",
+  "website": "https://www.equipacmat.com"
+  },
+  {
+  "name": "Levesque & McIntyre Electric Co. Ltd/Location Restigouche Rental",
+  "category": "Construction",
+  "address": "11 Reid Road Charlo, NB E8E 2R1 CANADA",
+  "phone": "(506) 684-2846",
+  "website": "https://www.levesquemcintyreelectric.ca"
+  },
+  {
+  "name": "Little Electric Inc.",
+  "category": "Construction",
+  "address": "145 Turnbull Court Cambridge, ON N1T 1C6 CANADA",
+  "phone": "(519) 621-2500",
+  "website": "https://www.little-electric.com"
+  },
+  {
+  "name": "LocaFlex Levesque",
+  "category": "Construction",
+  "address": "194, Avenue Leonidas S Rimouski, QC G5L 2T2 CANADA",
+  "phone": "(418) 722-1212",
+  "website": "https://www.locaflexlevesque.com"
+  },
+  {
+  "name": "Local Rental Solutions Ltd. (Prince George)",
+  "category": "Construction",
+  "address": "2180 Robertson Road Prince George, BC V2N 1X6 CANADA",
+  "phone": "(250) 612-0010",
+  "website": "https://www.localrentalsolutions.com"
+  },
+  {
+  "name": "Local Rental Solutions Ltd. (Terrace)",
+  "category": "Construction",
+  "address": "4516 Keith Avenue Terrace, BC V8G 1J8 CANADA",
+  "phone": "(250) 612-0010",
+  "website": "https://www.localrentalsolutions.com"
+  },
+  {
+  "name": "Location André",
+  "category": "Construction",
+  "address": "3500 Blv Cite Des Jeunes Vaudreuil-Dorion, QC J7V 8P2 CANADA",
+  "phone": "(450) 424-8888",
+  "website": "https://www.locationandre.com"
+  },
+  {
+  "name": "Location de Beauce Inc.",
+  "category": "Construction",
+  "address": "525 91E Rue Saint-Georges, QC G5Y 3K7 CANADA",
+  "phone": "(418) 228-1718",
+  "website": "https://www.locationdebeauce.com"
+  },
+  {
+  "name": "Location d'Équipements Laval",
+  "category": "Construction",
+  "address": "4077 Boul Sainte-Rose Laval, QC H7R 1W6 CANADA",
+  "phone": "(450) 622-7422",
+  "website": "https://www.locationdequipementslaval.com"
+  },
+  {
+  "name": "Location Dickie Moore/Moore JCB",
+  "category": "Construction",
+  "address": "4955 Ch Saint-Francois Saint-Laurent, QC H4S 1P3 CANADA",
+  "phone": "(514) 333-1212",
+  "website": "https://www.dickiemoore.com"
+  },
+  {
+  "name": "Location d'Outils (Dolbeau-Mistassini)",
+  "category": "Construction",
+  "address": "1731 Boul. Vézina Dolbeau-Mistassini, QC G8L 3S4 CANADA",
+  "phone": "(418) 679-5296"
+  },
+  {
+  "name": "Location D'Outils J.E.D. Ltée (Caraquet)",
+  "category": "Construction",
+  "address": "447 Boul St-Pierre Caraquet, NB E1W 1A8 CANADA",
+  "phone": "(506) 727-6262"
+  },
+  {
+  "name": "Location D'Outils J.E.D. Ltée (Shippagan)",
+  "category": "Construction",
+  "address": "101 Rue Clermont Mallot, Parc Industriel Shippagan, NB E8S 0A8 CANADA",
+  "phone": "(506) 727-6262"
+  },
+  {
+  "name": "Location D'Outils J.E.D. Ltée (Tracadie-Sheila)",
+  "category": "Construction",
+  "address": "3075 Rue Principale Tracadie-Sheila, NB E1X 1A2 CANADA",
+  "phone": "(506) 727-6262"
+  },
+  {
+  "name": "Location D'Outils Knowlton",
+  "category": "Construction",
+  "address": "541 Knowlton Road Knowlton, QC J0E 1V0 CANADA",
+  "phone": "(418) 679-5296"
+  },
+  {
+  "name": "Location D'Outils Lambton",
+  "category": "Construction",
+  "address": "319 Route 108 Lambton, QC G0M 1H0 CANADA",
+  "phone": "(418) 486-2593",
+  "website": "https://www.locationdoutilslambton.com"
+  },
+  {
+  "name": "Location D'Outils Nicolet",
+  "category": "Construction",
+  "address": "3855 Boul Louis-Frechette Nicolet, QC J3T 1T7 CANADA",
+  "phone": "(819) 293-8546",
+  "website": "https://www.locationnicolet.com"
+  },
+  {
+  "name": "Location d'Outils St-Félicien",
+  "category": "Construction",
+  "address": "699 Boul. Hamel St-Félicien, QC G8K 1X9 CANADA",
+  "phone": "(418) 679-5296"
+  },
+  {
+  "name": "Location D'Outils St-Gabriel de Brandon",
+  "category": "Construction",
+  "address": "1790 Rue St-Clèophas St-Gabriel De Brandon, QC J0K 2N0 CANADA",
+  "phone": "(450) 386-1235",
+  "website": "https://www.locationdoutilstgabriel.com"
+  },
+  {
+  "name": "Location D'Outils Thetford Mines",
+  "category": "Construction",
+  "address": "1425 Boul. Frontenac E Thetford Mines, QC G6G 7Z5 CANADA",
+  "phone": "(418) 335-5245",
+  "website": "https://www.locationdoutilsthetford.ca"
+  },
+  {
+  "name": "Location Ferrento (1993) Inc.",
+  "category": "Construction",
+  "address": "7360 Boul Newman Lasalle, QC H8N 1X2 CANADA",
+  "phone": "(514) 363-4426",
+  "website": "https://www.ferrento.com"
+  },
+  {
+  "name": "LTR Location (Laval)",
+  "category": "Construction",
+  "address": "520 Place Forand Laval, QC H7P 5L9 CANADA",
+  "phone": "(819) 375-1363",
+  "website": "https://www.locationideal.com"
+  },
+  {
+  "name": "LTR Location (Vaudreuil-Dorion)",
+  "category": "Construction",
+  "address": "1085 Rte Harwood Vaudreuil-Dorion, QC J7V 8P2 CANADA",
+  "phone": "(819) 375-1363",
+  "website": "https://www.locationideal.com"
+  },
+  {
+  "name": "Location Jerry Inc.",
+  "category": "Construction",
+  "address": "185 Grande-Allée Est Local 100 Grande-Riviere, QC G0C 1V0 CANADA",
+  "phone": "(418) 385-3417",
+  "website": "https://www.locationjrl.com"
+  },
+  {
+  "name": "Location Langlois Inc.",
+  "category": "Construction",
+  "address": "450 Rue Didace Magog, QC J1X 2P4 CANADA",
+  "phone": "(819) 843-4322",
+  "website": "https://www.locationlanglois.ca"
+  },
+  {
+  "name": "Location M.L. Inc.",
+  "category": "Construction",
+  "address": "455 Rue Sylvio Drummondville, QC J2A 1L8 CANADA",
+  "phone": "(819) 475-6201",
+  "website": "https://www.locationlamarche.ca"
+  },
+  {
+  "name": "Location Madden Rental Inc.",
+  "category": "Construction",
+  "address": "573, Rue Lafleur St. Lachute, QC J8H 1R5 CANADA",
+  "phone": "(450) 562-9142",
+  "website": "https://www.locationmadden.com"
+  },
+  {
+  "name": "Location Maslot Inc. (Baie-Saint-Paul)",
+  "category": "Construction",
+  "address": "1090 Boul Mgrs De Laval Baie-Saint-Paul, QC G3Z 2W9 CANADA",
+  "phone": "(418) 435-6161",
+  "website": "https://www.maslot.ca"
+  },
+  {
+  "name": "Location Maslot Inc. (La Malbaie)",
+  "category": "Construction",
+  "address": "1455 Boul De Comporté La Malbaie, QC G5A 1P4 CANADA",
+  "phone": "(418) 435-6161",
+  "website": "https://www.maslot.ca"
+  },
+  {
+  "name": "Location Moreau Inc.",
+  "category": "Construction",
+  "address": "190 Rue William-Moreau New Richmond, QC G0C 2B0 CANADA",
+  "phone": "(418) 392-4219",
+  "website": "https://www.locationmoreau.com"
+  },
+  {
+  "name": "Location NG & Fils",
+  "category": "Construction",
+  "address": "2733 Rt Du President Kennedy Saint-Henri-De-Levis, QC G0R 3E0 CANADA",
+  "phone": "(418) 700-1707",
+  "website": "https://www.locationng.com"
+  },
+  {
+  "name": "Location R. Morin (1986) Inc.",
+  "category": "Construction",
+  "address": "1250 Saint-Joseph Blvd. Drummondville, QC J2C 2E3 CANADA",
+  "phone": "(819) 477-2425",
+  "website": "https://www.locationmorin.ca"
+  },
+  {
+  "name": "Location Richmond Inc.",
+  "category": "Construction",
+  "address": "175 Du Collège Nord Richmond, QC J0B 2H0 CANADA",
+  "phone": "(819) 644-0080"
+  },
+  {
+  "name": "Location Windsor 9339-3254 QC Inc.",
+  "category": "Construction",
+  "address": "89 Rue Principale S Windsor, QC J1S 2B9 CANADA",
+  "phone": "(819) 845-7874",
+  "website": "https://www.locationwindsor.com"
+  },
+  {
+  "name": "Location125.com",
+  "category": "Construction",
+  "address": "2752 Route 125 Ste- Julienne, QC J0K 2T0 CANADA",
+  "phone": "(450) 333-3330",
+  "website": "https://www.location125.com"
+  },
+  {
+  "name": "Loc-Equip",
+  "category": "Construction",
+  "address": "845 101 Avenue Laval, QC H7W 4B6 CANADA",
+  "phone": "(514) 659-7504",
+  "website": "https://www.loc-equip.ca"
+  },
+  {
+  "name": "Lou-Plex Inc.",
+  "category": "Construction",
+  "address": "55 Route 104 St-Jean-sur-Richelieu, QC J2X 1H2 CANADA",
+  "phone": "(450) 358-9702",
+  "website": "https://www.equipementsrobert.com"
+  },
+  {
+  "name": "M Sullivan & Son Ltd.",
+  "category": "Construction",
+  "address": "236 Madawaska Blvd. Suite 100 Arnprior, ON K7S 0A3 CANADA",
+  "phone": "(613) 250-0394",
+  "website": "https://www.sullivan.ca"
+  },
+  {
+  "name": "M&J Mobile Rentals Inc.",
+  "category": "Construction",
+  "address": "11170 280 St Maple Ridge, BC V2W 1L6 CANADA",
+  "phone": "(604) 671-7590",
+  "website": "https://www.mobilequip.ca"
+  },
+  {
+  "name": "MacPherson Rentals",
+  "category": "Construction",
+  "address": "117 Copper Road Whitehorse, YT Y1A 2Z7 CANADA",
+  "phone": "(867) 633-4426",
+  "website": "https://www.macphersonrentals.com"
+  },
+  {
+  "name": "Mainline Equipment Ltd.",
+  "category": "Construction",
+  "address": "14535 114 Avenue NW Edmonton, AB T5M 2Y8 CANADA",
+  "phone": "(403) 243-0583",
+  "website": "https://www.mainlineequipment.com"
+  },
+  {
+  "name": "MC2 Centre de location d'outils et d'équipements",
+  "category": "Construction",
+  "address": "1 Avenue Du Parc-Industriel Pabos, QC G0C 2H0 CANADA",
+  "phone": "(418) 689-5027",
+  "website": "https://www.mc2location.com"
+  },
+  {
+  "name": "McCann Equipment Ltd. (Dorval)",
+  "category": "Construction",
+  "address": "10255 Ch Cote-De-Liesse Dorval, QC H9P 1A3 CANADA",
+  "phone": "(514) 636-6344",
+  "website": "https://www.torquetools.com"
+  },
+  {
+  "name": "McCann Equipment Ltd. (Edmonton)",
+  "category": "Construction",
+  "address": "4817 89 Street NW Edmonton, AB T6E 5L3 CANADA",
+  "phone": "(514) 636-6344",
+  "website": "https://www.mccannequipment.ca"
+  },
+  {
+  "name": "McCann Equipment Ltd. (Oakville)",
+  "category": "Construction",
+  "address": "2750 Coventry Road Oakville, ON L6H 6R1 CANADA",
+  "phone": "(514) 636-6344",
+  "website": "https://www.mccannequipment.ca"
+  },
+  {
+  "name": "McCann Equipment Ltd. (Quebec)",
+  "category": "Construction",
+  "address": "925 Av Newton #107 Quebec, QC G1P 4M2 CANADA",
+  "phone": "(514) 636-6344",
+  "website": "https://www.mccannequipment.ca"
+  },
+  {
+  "name": "McCann Equipment Ltd. (Surrey)",
+  "category": "Construction",
+  "address": "1-7533 135 Street Surrey, BC V3W 0N6 CANADA",
+  "phone": "(514) 636-6344",
+  "website": "https://www.mccannequipment.ca"
+  },
+  {
+  "name": "McCann Equipment Ltd. (Winnipeg)",
+  "category": "Construction",
+  "address": "1448 Wellington Avenue Winnipeg, MB R3E 0K5 CANADA",
+  "phone": "(514) 636-6344",
+  "website": "https://www.mccannequipment.ca"
+  },
+  {
+  "name": "Metro Rent-All",
+  "category": "Construction",
+  "address": "1933A Kennedy Road Scarborough, ON M1P 2L9 CANADA",
+  "phone": "(416) 291-2521",
+  "website": "https://www.metrorent-all.com"
+  },
+  {
+  "name": "Miller Equipment Rentals, Ltd.",
+  "category": "Construction",
+  "address": "1295 Stevens Road West Kelowna, BC V1Z 2S9 CANADA",
+  "phone": "(250) 769-0960",
+  "website": "https://www.millerlifts.ca"
+  },
+  {
+  "name": "Mortier en Tremie ABL Inc. (Levis)",
+  "category": "Construction",
+  "address": "791 Chemin Industriel Levis, QC G7A 1B4 CANADA",
+  "phone": "(418) 831-2317",
+  "website": "https://www.mortierentremieabl.com"
+  },
+  {
+  "name": "Mortier en Tremie ABL Inc. (Montreal)",
+  "category": "Construction",
+  "address": "9170 Pascal-Gagnon Montreal, QC H1P 2X4 CANADA",
+  "phone": "(418) 831-2317",
+  "website": "https://www.mortierentremieabl.com"
+  },
+  {
+  "name": "Mountain View Developments Ltd.",
+  "category": "Construction",
+  "address": "Site 6, Box 16, R.R. #3 High River, AB T1V 1N3 CANADA",
+  "phone": "(403) 651-2270",
+  "website": "https://www.mvdl.ca"
+  },
+  {
+  "name": "Mountainside Sales & Rentals Ltd.",
+  "category": "Construction",
+  "address": "5707 2 Avenue Edson, AB T7E 1L8 CANADA",
+  "phone": "(780) 723-5536",
+  "website": "https://www.mssr.ca"
+  },
+  {
+  "name": "North Country Rentals and Sales",
+  "category": "Construction",
+  "address": "3470 Hwy 16 Unit A P.O. Box 3778 Smithers, BC V0J 2N0 CANADA",
+  "phone": "(250) 847-9499",
+  "website": "https://www.ncrentals.ca"
+  },
+  {
+  "name": "New West Equipment Services Ltd.",
+  "category": "Construction",
+  "address": "616 71 Avenue SE Unit 105 Calgary, AB T2H 2R1 CANADA",
+  "phone": "(403) 803-6254",
+  "website": "https://www.newwestequipment.com"
+  },
+  {
+  "name": "Nicola Chainsaw & Equipment Rentals",
+  "category": "Construction",
+  "address": "2602 Nicola Avenue Merritt, BC V1K 1B8 CANADA",
+  "phone": "(250) 378-2234",
+  "website": "https://www.nicolamotorsports.com"
+  },
+  {
+  "name": "Nor Building Enterprises Ltd.",
+  "category": "Construction",
+  "address": "1504 Front Street P.O. Box 970 Hearst, ON P0L 1N0 CANADA",
+  "phone": "(705) 362-8459",
+  "website": "https://www.norbuilding.ca"
+  },
+  {
+  "name": "Northtown Rental & Sales",
+  "category": "Construction",
+  "address": "1432B Northwest Blvd. Creston, BC V0B 1G6 CANADA",
+  "phone": "(250) 428-5961",
+  "website": "https://www.northtownrental.com"
+  },
+  {
+  "name": "Nova Rentals Inc.",
+  "category": "Construction",
+  "address": "5040 Maingate Drive Unit 7 Mississauga, ON L4W 1X5 CANADA",
+  "phone": "(905) 232-1977",
+  "website": "https://www.novarentals.ca"
+  },
+  {
+  "name": "Nu-Way Equip. Rentals Corp.",
+  "category": "Construction",
+  "address": "2-4063 74 Avenue SE Calgary, AB T2C 2H9 CANADA",
+  "phone": "(403) 279-8110",
+  "website": "https://www.nuwayrentals.ca"
+  },
+  {
+  "name": "Oak Bay Rentals",
+  "category": "Construction",
+  "address": "246 Route 170 Oak Bay, NB E3L 3X8 CANADA",
+  "phone": "(506) 466-0040",
+  "website": "https://www.oktire.com/stores/ok-tire-oak-bay"
+  },
+  {
+  "name": "O'Donnell Enterprises",
+  "category": "Construction",
+  "address": "400503 Grey Road #4 Flesherton, ON N0C 1E0 CANADA",
+  "phone": "(519) 599-5238",
+  "website": "https://www.odonnell-lift.ca"
+  },
+  {
+  "name": "Oliveira Equipment",
+  "category": "Construction",
+  "address": "147 Queen Street North Tilbury, ON N0P 2L0 CANADA",
+  "phone": "(226) 216-0887",
+  "website": "https://www.oliveiraequipment.com"
+  },
+  {
+  "name": "Olivier Gagné Mini-Moteur, Inc.",
+  "category": "Construction",
+  "address": "100 Rue Principale Saint-Lazare-De-Bellechasse, QC G0R 3J0 CANADA",
+  "phone": "(418) 883-3703",
+  "website": "https://www.ogminimoteur.com"
+  },
+  {
+  "name": "Orangeville Equipment Rental",
+  "category": "Construction",
+  "address": "473594 County Road 11 Amaranth, ON L9W 0R3 CANADA",
+  "phone": "(519) 941-6508",
+  "website": "https://www.orangevilleequipmentrentals.com"
+  },
+  {
+  "name": "Outillages Express Inc.",
+  "category": "Construction",
+  "address": "609 Rue St-Isidore Saint-Lin-Laurentides, QC J5M 0M4 CANADA",
+  "phone": "(450) 439-7820",
+  "website": "https://www.outillagesexpress.ca"
+  },
+  {
+  "name": "Outlook Rentals Ltd.",
+  "category": "Construction",
+  "address": "Box 489 Outlook, SK S0L 2N0 CANADA",
+  "phone": "(306) 867-2083",
+  "website": "https://www.outlookrentals.com"
+  },
+  {
+  "name": "Oxford Builders Supplies (Abbotsford)",
+  "category": "Construction",
+  "address": "37045 N Parallel Road Abbotsford, BC V3G 2H5 CANADA",
+  "phone": "(888) 822-6522",
+  "website": "https://www.oxfordbuilders.ca"
+  },
+  {
+  "name": "Oxford Builders Supplies (Ashton)",
+  "category": "Construction",
+  "address": "9094 Cavanagh Road Ashton, ON K0A 1B0 CANADA",
+  "phone": "(888) 822-6522",
+  "website": "https://www.oxfordbuilders.ca"
+  },
+  {
+  "name": "Oxford Builders Supplies (Calgary)",
+  "category": "Construction",
+  "address": "9616 48th Street SE Calgary, AB T2C 2R2 CANADA",
+  "phone": "(888) 822-6522",
+  "website": "https://www.oxfordbuilders.ca"
+  },
+  {
+  "name": "Oxford Builders Supplies (London)",
+  "category": "Construction",
+  "address": "2045 Oxford Street East London, ON N5V 2Z7 CANADA",
+  "phone": "(888) 822-6522",
+  "website": "https://www.oxfordbuilders.ca"
+  },
+  {
+  "name": "Oxford Builders Supplies (Mississauga)",
+  "category": "Construction",
+  "address": "1866 Shawson Drive Mississauga, ON L4W 1R7 CANADA",
+  "phone": "(888) 822-6522",
+  "website": "https://www.oxfordbuilders.ca"
+  },
+  {
+  "name": "P.G. Rental Centre Ltd. (Prince George)",
+  "category": "Construction",
+  "address": "1669 Lyon Street South Prince George, BC V2N 1T3 CANADA",
+  "phone": "(250) 562-2626",
+  "website": "https://www.pgrentalcentre.com"
+  },
+  {
+  "name": "Pat's Rent All",
+  "category": "Construction",
+  "address": "1-334 Westney Road South Ajax, ON L1S 6M7 CANADA",
+  "phone": "(905) 683-1631",
+  "website": "https://www.patsrentall.com"
+  },
+  {
+  "name": "Peace Country Rentals & Sales Inc.",
+  "category": "Construction",
+  "address": "9619 108 Street Fort St. John, BC V1J 6S4 CANADA",
+  "phone": "(250) 785-8951",
+  "website": "https://www.peacecountryrentals.com"
+  },
+  {
+  "name": "Performance All Terrain & Rentals",
+  "category": "Construction",
+  "address": "867 Alder Avenue P.O. Box 2320 100 Mile House, BC V0K 2E0 CANADA",
+  "phone": "(250) 395-2550",
+  "website": "https://www.performanceallterrain.com"
+  },
+  {
+  "name": "Pilon Tool Rentals (1972) Ltd.",
+  "category": "Construction",
+  "address": "123 Island Hwy North Courtenay, BC V9N 3N9 CANADA",
+  "phone": "(250) 338-5361",
+  "website": "https://www.pilontools.ca"
+  },
+  {
+  "name": "Pineridge Rent-All",
+  "category": "Construction",
+  "address": "2845 King St. R.R. #4 Bowmanville, ON L1C 6E9 CANADA",
+  "phone": "(905) 623-7368",
+  "website": "https://www.pineridgerentall.com"
+  },
+  {
+  "name": "PipeTech Rentals LP",
+  "category": "Construction",
+  "address": "31 Manitoba Way Spruce Grove, AB T7X 0V5 CANADA",
+  "phone": "(780) 784-1990",
+  "website": "https://www.ptrentals.ca"
+  },
+  {
+  "name": "Plains Equipment Rentals Corporation",
+  "category": "Construction",
+  "address": "220041 Township Road 112 P.O. Box 1084 Picture Butte, AB T0K 1V0 CANADA",
+  "phone": "(403) 331-7533",
+  "website": "https://www.plainsequipmentrentals.com"
+  },
+  {
+  "name": "Portside Rent Shop",
+  "category": "Construction",
+  "address": "193 Westville Road New Glasgow, NS B2H 2J4 CANADA",
+  "phone": "(902) 752-4083",
+  "website": "https://www.portsiderentshop.ca"
+  },
+  {
+  "name": "Prairieland Rental & Sales",
+  "category": "Construction",
+  "address": "600 Albert Street Regina, SK S4R 2P3 CANADA",
+  "phone": "(306) 757-4775",
+  "website": "https://www.myprairielandrental.com"
+  },
+  {
+  "name": "Pro Loc",
+  "category": "Construction",
+  "address": "322 Rue Joseph Gagné South La Baie, QC G7B 3P6 CANADA",
+  "phone": "(418) 306-5554",
+  "website": "https://www.prolocsaguenay.com"
+  },
+  {
+  "name": "Prolifte Inc.",
+  "category": "Construction",
+  "address": "400 Av Marien Montreal-Est, QC H1B 4V6 CANADA",
+  "phone": "(514) 323-2533",
+  "website": "https://www.prolifte.ca"
+  },
+  {
+  "name": "Proline Rentals & Sales Ltd.",
+  "category": "Construction",
+  "address": "13 Lee Valley Drive, R.R. #2 Port Carling, ON P0B 1J0 CANADA",
+  "phone": "(705) 765-5400",
+  "website": "https://www.prolinerentals.ca"
+  },
+  {
+  "name": "Pro-Plus Sales & Rentals Ltd.",
+  "category": "Construction",
+  "address": "114 - 12th Avenue East Box 1660 Kindersley, SK S0L 1S0 CANADA",
+  "phone": "(306) 463-4886",
+  "website": "https://www.proplusrentals.ca"
+  },
+  {
+  "name": "Quality Rentals",
+  "category": "Construction",
+  "address": "637 Puce Road Essex, ON N8M 2X7 CANADA",
+  "phone": "(519) 727-3773",
+  "website": "https://www.qualityrentals.ca"
+  },
+  {
+  "name": "Ready Rentals Limited",
+  "category": "Construction",
+  "address": "1209 Fairville Blvd. Saint John, NB E2M 5T9 CANADA",
+  "phone": "(506) 635-8911",
+  "website": "https://www.ready-rentals.ca"
+  },
+  {
+  "name": "Red Rentals",
+  "category": "Construction",
+  "address": "18880- 98 Avenue Surrey, BC V4N 3R6 CANADA",
+  "phone": "(604) 819-6883",
+  "website": "https://www.red-rentals.com"
+  },
+  {
+  "name": "Red-D-Arc Welderentals",
+  "category": "Construction",
+  "address": "667 South Service Road P.O. Box 40 Grimsby, ON L3M 4G1 CANADA",
+  "phone": "(905) 643-4212",
+  "website": "https://www.red-d-arc.com"
+  },
+  {
+  "name": "Reliable Rentals & Sales Ltd.",
+  "category": "Construction",
+  "address": "267 Collishaw Street Moncton, NB E1C 9R1 CANADA",
+  "phone": "(506) 857-3100"
+  },
+  {
+  "name": "Remorquage et Location d'Outils Desjardins Inc.",
+  "category": "Construction",
+  "address": "175 Rte 116 Ouest Plessisville, QC G6L 2Y2 CANADA",
+  "phone": "(819) 362-2325",
+  "website": "https://www.locationdesjardins.com"
+  },
+  {
+  "name": "Renfrew Rent-All Ltd.",
+  "category": "Construction",
+  "address": "997 Gillan Road Renfrew, ON K7V 3Z4 CANADA",
+  "phone": "(613) 432-3822"
+  },
+  {
+  "name": "Rent All Kirkland Lake",
+  "category": "Construction",
+  "address": "16 Kirkland Street East Kirkland Lake, ON P2N 1P1 CANADA",
+  "phone": "(705) 568-8564",
+  "website": "https://www.rentallkl.com"
+  },
+  {
+  "name": "Rent Source",
+  "category": "Construction",
+  "address": "15540 Yonge Street Aurora, ON L4G 1P2 CANADA",
+  "phone": "(905) 727-7368",
+  "website": "https://www.rentsource.ca"
+  },
+  {
+  "name": "Rental Haus & Repair",
+  "category": "Construction",
+  "address": "6109 46 Street Leduc, AB T9E 6T8 CANADA",
+  "phone": "(780) 893-2771",
+  "website": "https://www.rentalhausandrepair.com"
+  },
+  {
+  "name": "Rentco Equipment Ltd. (Grande Prairie - 117 Street)",
+  "category": "Construction",
+  "address": "9601 117 Street Grande Prairie, AB T8W 0C7 CANADA",
+  "phone": "(780) 539-7860",
+  "website": "https://www.rentcoequipment.com"
+  },
+  {
+  "name": "Rent-online.pro",
+  "category": "Construction",
+  "address": "322-75 Boul. Des Châteaux Blainville, QC J7B 2A4 CANADA",
+  "phone": "(514) 228-1570",
+  "website": "https://www.rent-online.pro"
+  },
+  {
+  "name": "Rentup Equipment",
+  "category": "Construction",
+  "address": "270 Hunter Road Grimsby, ON L3M 0H5 CANADA",
+  "phone": "(289) 447-1205",
+  "website": "https://www.rentupequipment.com"
+  },
+  {
+  "name": "Richquip Equipment Ltd.",
+  "category": "Construction",
+  "address": "212-8532 120 Street Surrey, BC V3W 3N5 CANADA",
+  "phone": "(604) 302-0038",
+  "website": "https://www.richquip.com"
+  },
+  {
+  "name": "Rite-Way Rentals & Radiators Ltd.",
+  "category": "Construction",
+  "address": "235 Manitoba Road Winkler, MB R6W 0J8 CANADA",
+  "phone": "(204) 325-2201",
+  "website": "https://www.rwrent.ca"
+  },
+  {
+  "name": "Riverview Rentals Ltd.",
+  "category": "Construction",
+  "address": "575 Pine Glen Road Riverview, NB E1B 4X4 CANADA",
+  "phone": "(506) 830-7368",
+  "website": "https://www.riverviewrentalsltd.ca"
+  },
+  {
+  "name": "Robertson Rentals Inc.",
+  "category": "Construction",
+  "address": "545 Ontario Street St Catharines, ON L2N 4N4 CANADA",
+  "phone": "(905) 682-6618",
+  "website": "https://www.robertsonrentall.com"
+  },
+  {
+  "name": "Rogers Rent-All Ltd.",
+  "category": "Construction",
+  "address": "11915 16 Street NE Calgary, AB T3K 0S9 CANADA",
+  "phone": "(403) 276-5501",
+  "website": "https://www.rogersrentall.com"
+  },
+  {
+  "name": "Ron's Equipment Rental & Industrial Supply",
+  "category": "Construction",
+  "address": "103 Kam Lake Road YellowKnife, NW X1A 0G5 CANADA",
+  "phone": "(867) 766-6025",
+  "website": "https://www.ronsauto.ca"
+  },
+  {
+  "name": "S & T Equipment Sales & Rentals Ltd.",
+  "category": "Construction",
+  "address": "1221 Upper Prince Street Sydney, NS B1P 5P8 CANADA",
+  "phone": "(902) 539-2921"
+  },
+  {
+  "name": "P.G. Rental Centre Ltd. (Victoria)",
+  "category": "Construction",
+  "address": "1554 Cedar Hill Cross Road Victoria, BC V8P 2P4 CANADA",
+  "phone": "(250) 562-2626",
+  "website": "https://saanichrentals.com"
+  },
+  {
+  "name": "Sabre Rentals Ltd.",
+  "category": "Construction",
+  "address": "8021 Mons Road Whistler, BC V8E 1K8 CANADA",
+  "phone": "(604) 932-5583",
+  "website": "https://www.sabrerentals.com"
+  },
+  {
+  "name": "Sam Equipment Rental",
+  "category": "Construction",
+  "address": "517 Keltic Drive Coxheath, NS B1P 6T6 CANADA",
+  "phone": "(902) 574-7912",
+  "website": "https://www.samequipmentrentals.com"
+  },
+  {
+  "name": "Savage Equipment Leasing",
+  "category": "Construction",
+  "address": "12131 Highway 17 East Sturgeon Falls, ON P2B 3K8 CANADA",
+  "phone": "(705) 753-0129",
+  "website": "https://www.savageequipmentleasing.com"
+  },
+  {
+  "name": "SC RentalEquip Limited",
+  "category": "Construction",
+  "address": "4-5824 Sechelt Inlet Road Sechelt, BC V0N 3A3 CANADA",
+  "phone": "(604) 885-7368",
+  "website": "https://www.rentalequip.ca"
+  },
+  {
+  "name": "SC RentalEquip Limited (Gibsons)",
+  "category": "Construction",
+  "address": "101-1018 Venture Way Gibsons, BC V0N 1V7 CANADA",
+  "phone": "(604) 885-7368",
+  "website": "https://www.rentalequip.ca"
+  },
+  {
+  "name": "Scott Builders Inc.",
+  "category": "Construction",
+  "address": "8105 - 49 Avenue Close Red Deer, AB T4P 2V5 CANADA",
+  "phone": "(403) 350-0917",
+  "website": "https://www.scottbuilders.com"
+  },
+  {
+  "name": "Select Total Service",
+  "category": "Construction",
+  "address": "126 South Street North Port Robinson, ON L0S 1K0 CANADA",
+  "phone": "(905) 384-4184",
+  "website": "https://www.selectaerials.com"
+  },
+  {
+  "name": "Service de Location F.G.L.(1983) Inc.",
+  "category": "Construction",
+  "address": "1610 Rue Bourget Sorel-Tracy, QC J3R 4X2 CANADA",
+  "phone": "(450) 742-5634",
+  "website": "https://www.locationfgl.com"
+  },
+  {
+  "name": "Service de Reparation Aylmer et Location MD",
+  "category": "Construction",
+  "address": "2930 Highway 148 Luskville, QC J0X 2G0 CANADA",
+  "phone": "(819) 684-8446",
+  "website": "https://www.alymerrepair.com"
+  },
+  {
+  "name": "Service Rentals & Sales",
+  "category": "Construction",
+  "address": "9 Sackville Road Sault Ste Marie, ON P6B 4T3 CANADA",
+  "phone": "(705) 542-9840",
+  "website": "https://www.servicerentals.ca"
+  },
+  {
+  "name": "Sharecost Rentals & Sales (97) Ltd.",
+  "category": "Construction",
+  "address": "1716 Northfield Road Nanaimo, BC V9S 3B2 CANADA",
+  "phone": "(250) 758-2401",
+  "website": "https://www.sharecost.ca"
+  },
+  {
+  "name": "Shediac Rentals & Sales",
+  "category": "Construction",
+  "address": "633 Main Street Shediac, NB E4P 2C6 CANADA",
+  "phone": "(506) 532-7368",
+  "website": "https://www.shediacrental.com"
+  },
+  {
+  "name": "Shuswap Trailers Ltd.",
+  "category": "Construction",
+  "address": "50 3 Street NW Salmon Arm, BC V1E 1E4 CANADA",
+  "phone": "(250) 832-8414",
+  "website": "https://www.shuswaptrialers.com"
+  },
+  {
+  "name": "Simon Lift Systems, Inc.",
+  "category": "Construction",
+  "address": "4380 104 Avenue SE Calgary, AB T2C 1R7 CANADA",
+  "phone": "(403) 261-2039",
+  "website": "https://www.simonlift.com"
+  },
+  {
+  "name": "Skytech Elevation Inc.",
+  "category": "Construction",
+  "address": "2540 Route 122 St Cyrille-de-Wendover, QC J1Z 1C1 CANADA",
+  "phone": "(819) 472-2225",
+  "website": "https://www.skytechelevation.com"
+  },
+  {
+  "name": "Sky-Tech Equipment",
+  "category": "Construction",
+  "address": "10010A Thatcher Avenue North Battleford, SK S9A 2Z3 CANADA",
+  "phone": "(306) 445-5151",
+  "website": "https://www.skytechequipment.com"
+  },
+  {
+  "name": "SMS Equipment d/b/a Krents",
+  "category": "Construction",
+  "address": "12720 82 Ave Surrey, BC V3W 3G1 CANADA",
+  "phone": "(855) 457-3687",
+  "website": "https://www.smsequip.com"
+  },
+  {
+  "name": "Snowbird Rentals Ltd.",
+  "category": "Construction",
+  "address": "4932 99 St NW Edmonton, AB T6E 3N6 CANADA",
+  "phone": "(780) 438-2117",
+  "website": "https://www.snowbirdrentals.ca"
+  },
+  {
+  "name": "SOSEQUIPMENT",
+  "category": "Construction",
+  "address": "760 Rue Bériault Longueuil, QC J4G 1R8 CANADA",
+  "phone": "(833) 360-3330",
+  "website": "https://www.sosequipment.ca"
+  },
+  {
+  "name": "Southern Shore Rentals",
+  "category": "Construction",
+  "address": "1 Burnt Cove Road Tors Cove, NL A0A 4A0 CANADA",
+  "phone": "(709) 334-2902"
+  },
+  {
+  "name": "South-Way Equipment Rentals Ltd.",
+  "category": "Construction",
+  "address": "4729 32 Street SE Calgary, AB T2B 2X3 CANADA",
+  "phone": "(403) 207-4577",
+  "website": "https://www.southwayrentals.com"
+  },
+  {
+  "name": "St. Thomas Rent-All",
+  "category": "Construction",
+  "address": "1241 Talbot Street St Thomas, ON N5P 1G8 CANADA",
+  "phone": "(519) 631-5450",
+  "website": "https://www.stthomasrentall.com"
+  },
+  {
+  "name": "Standard Rentals Ltd.",
+  "category": "Construction",
+  "address": "80 Shep Street P.O. Box 4046 Spruce Grove, AB T7X 3B2 CANADA",
+  "phone": "(780) 962-4298",
+  "website": "https://www.standardrentals.com"
+  },
+  {
+  "name": "Stanmore Equipment Limited (Uxbridge - Anderson)",
+  "category": "Construction",
+  "address": "3 Anderson Blvd Uxbridge, ON L9P 0G5 CANADA",
+  "phone": "(905) 640-1928",
+  "website": "https://www.stanmoreequipment.com"
+  },
+  {
+  "name": "Stanmore Equipment Limited (Carleton Place)",
+  "category": "Construction",
+  "address": "12624 Highway #7 Carleton Place, ON K7C 0C5 CANADA",
+  "phone": "(905) 640-1928",
+  "website": "https://www.stanmoreequipment.com"
+  },
+  {
+  "name": "Stanmore Equipment Limited (Stoney Creek)",
+  "category": "Construction",
+  "address": "154 Upper Centennial Pkwy Stoney Creek, ON L8J 2T7 CANADA",
+  "phone": "(905) 640-1928",
+  "website": "https://www.stanmoreequipment.com"
+  },
+  {
+  "name": "Stanmore Equipment Limited (Uxbridge - Paisley)",
+  "category": "Construction",
+  "address": "4 Paisley Lane Uxbridge, ON L9P 0G5 CANADA",
+  "phone": "(905) 640-1928",
+  "website": "https://www.stanmoreequipment.com"
+  },
+  {
+  "name": "Stanmore Equipment Limited (Uxbridge - Sangster)",
+  "category": "Construction",
+  "address": "5 Sangster Road Uxbridge, ON L9P 0G5 CANADA",
+  "phone": "(905) 640-1928",
+  "website": "https://www.stanmoreequipment.com"
+  },
+  {
+  "name": "Starline Rentals, Ltd.",
+  "category": "Construction",
+  "address": "6362 Sideroad 6 Listowel, ON N4W 3G8 CANADA",
+  "phone": "(519) 291-1141",
+  "website": "https://www.starlinetrailers.com"
+  },
+  {
+  "name": "Stephenson's Rental Services Inc. (Mississauga - Columbus)",
+  "category": "Construction",
+  "address": "6895 Columbus Road Mississauga, ON L5T 2G9 CANADA",
+  "phone": "(905) 507-3650",
+  "website": "https://www.stephensons.ca"
+  },
+  {
+  "name": "Strait Way Ltd.",
+  "category": "Construction",
+  "address": "1426 12th Street Coaldale, AB T1M 1N2 CANADA",
+  "phone": "(403) 345-2045",
+  "website": "https://www.straitway.ca"
+  },
+  {
+  "name": "Stringer Rentals & Power Products",
+  "category": "Construction",
+  "address": "99 7th Avenue Gimli, MB R0C 1B0 CANADA",
+  "phone": "(204) 642-7490",
+  "website": "https://www.stringerrentalsandpower.com"
+  },
+  {
+  "name": "Summerland Rental Centre",
+  "category": "Construction",
+  "address": "10008 South Victoria Road Summerland, BC V0H 1Z2 CANADA",
+  "phone": "(250) 494-6916",
+  "website": "https://www.summerlandrentalcentre.com"
+  },
+  {
+  "name": "Sunbelt Rentals (Fort Mill)",
+  "category": "Construction",
+  "address": "2341 Deerfield Drive Fort Mill, SC 29715 UNITED STATES",
+  "phone": "(888) 437-0054",
+  "website": "https://www.sunbeltrentals.com"
+  },
+  {
+  "name": "Sunbelt Rentals (Abbotsford)",
+  "category": "Construction",
+  "address": "31790 South Fraser Way Abbotsford, BC V2T 1T9 CANADA",
+  "phone": "(888) 437-0054",
+  "website": "https://www.sunbeltrentals.com"
+  },
+  {
+  "name": "Sunbelt Rentals (Airdrie)",
+  "category": "Construction",
+  "address": "20 East Green Lake NE Airdrie, AB T4A 2J2 CANADA",
+  "phone": "(888) 437-0054",
+  "website": "https://www.sunbeltrentals.com"
+  },
+  {
+  "name": "Sunbelt Rentals (Barrie)",
+  "category": "Construction",
+  "address": "535 Welham Road Barrie, ON L4N 8Z6 CANADA",
+  "phone": "(888) 437-0054",
+  "website": "https://www.sunbeltrentals.com"
+  },
+  {
+  "name": "Sunbelt Rentals (Belleville)",
+  "category": "Construction",
+  "address": "149 Enterprise Drive Belleville, ON K8N 5B5 CANADA",
+  "phone": "(888) 437-0054",
+  "website": "https://www.sunbeltrentals.com"
+  },
+  {
+  "name": "Sunbelt Rentals (Bracebridge)",
+  "category": "Construction",
+  "address": "560 Ecclestone Drive Bracebridge, ON P1L 1R2 CANADA",
+  "phone": "(888) 437-0054",
+  "website": "https://www.sunbeltrentals.com"
+  },
+  {
+  "name": "Sunbelt Rentals (Brampton - Devon)",
+  "category": "Construction",
+  "address": "129 Devon Road Brampton, ON L6T 5A4 CANADA",
+  "phone": "(888) 437-0054",
+  "website": "https://www.sunbeltrentals.com"
+  },
+  {
+  "name": "Sunbelt Rentals (Brampton - Rutherford)",
+  "category": "Construction",
+  "address": "36 Rutherford Road South Brampton, ON L6W 3J5 CANADA",
+  "phone": "(888) 437-0054",
+  "website": "https://www.sunbeltrentals.com"
+  },
+  {
+  "name": "Sunbelt Rentals (Brantford)",
+  "category": "Construction",
+  "address": "411 Henry Street Brantford, ON N3S 7V6 CANADA",
+  "phone": "(888) 437-0054",
+  "website": "https://www.sunbeltrentals.com"
+  },
+  {
+  "name": "Sunbelt Rentals (Brockville)",
+  "category": "Construction",
+  "address": "701 Central Avenue West Brockville, ON K6V 5W1 CANADA",
+  "phone": "(888) 437-0054",
+  "website": "https://www.sunbeltrentals.com"
+  },
+  {
+  "name": "Sunbelt Rentals (Burlington)",
+  "category": "Construction",
+  "address": "948 Zelco Drive Burlington, ON L7L 4Y3 CANADA",
+  "phone": "(888) 437-0054",
+  "website": "https://www.sunbeltrentals.com"
+  },
+  {
+  "name": "Sunbelt Rentals (Burnaby)",
+  "category": "Construction",
+  "address": "2961 Norland Avenue Burnaby, BC V5B 3A9 CANADA",
+  "phone": "(888) 437-0054",
+  "website": "https://www.sunbeltrentals.com"
+  },
+  {
+  "name": "Sunbelt Rentals (Calgary - 70 Street)",
+  "category": "Construction",
+  "address": "11330 70 Street SE Calgary, AB T2C 4Y3 CANADA",
+  "phone": "(888) 437-0054",
+  "website": "https://www.sunbeltrentals.com"
+  },
+  {
+  "name": "Sunbelt Rentals (Calgary - Manitou)",
+  "category": "Construction",
+  "address": "301 Manitou Road SE Calgary, AB T2G 4C2 CANADA",
+  "phone": "(888) 437-0054",
+  "website": "https://www.sunbeltrentals.com"
+  },
+  {
+  "name": "Sunbelt Rentals (Cloverdale)",
+  "category": "Construction",
+  "address": "17510 57 Avenue Cloverdale, BC V3S 1G7 CANADA",
+  "phone": "(888) 437-0054",
+  "website": "https://www.sunbeltrentals.com"
+  },
+  {
+  "name": "Sunbelt Rentals (Collingwood)",
+  "category": "Construction",
+  "address": "3 Greco Collingwood, ON L9Y 3Z9 CANADA",
+  "phone": "(888) 437-0054",
+  "website": "https://www.sunbeltrentals.com"
+  },
+  {
+  "name": "Sunbelt Rentals (Coquitlam - Fawcett)",
+  "category": "Construction",
+  "address": "41 Fawcett Road Coquitlam, BC V3K 6V2 CANADA",
+  "phone": "(888) 437-0054",
+  "website": "https://www.sunbeltrentals.com"
+  },
+  {
+  "name": "Sunbelt Rentals (Coquitlam - Glacier)",
+  "category": "Construction",
+  "address": "85 Glacier Street Unit 6 Coquitlam, BC V3K 5Z1 CANADA",
+  "phone": "(888) 437-0054",
+  "website": "https://www.sunbeltrentals.com"
+  },
+  {
+  "name": "Sunbelt Rentals (Coquitlam - North Bend)",
+  "category": "Construction",
+  "address": "93 North Bend St Coquitlam, BC V3K 6N1 CANADA",
+  "phone": "(888) 437-0054",
+  "website": "https://www.sunbeltrentals.com"
+  },
+  {
+  "name": "Sunbelt Rentals (Cornwall)",
+  "category": "Construction",
+  "address": "17305 Cornwall Centre Road Cornwall, ON K6K 1K5 CANADA",
+  "phone": "(888) 437-0054",
+  "website": "https://www.sunbeltrentals.com"
+  },
+  {
+  "name": "Sunbelt Rentals (Duncan)",
+  "category": "Construction",
+  "address": "5130 Polkey Road Duncan, BC V9L 6W3 CANADA",
+  "phone": "(888) 437-0054",
+  "website": "https://www.sunbeltrentals.com"
+  },
+  {
+  "name": "Sunbelt Rentals (Edmonton)",
+  "category": "Construction",
+  "address": "12160 68 Street NW Edmonton, AB T5B 1R1 CANADA",
+  "phone": "(888) 437-0054",
+  "website": "https://www.sunbeltrentals.com"
+  },
+  {
+  "name": "Sunbelt Rentals (Fergus)",
+  "category": "Construction",
+  "address": "140 St Patrick Street West Fergus, ON N1M 1L5 CANADA",
+  "phone": "(888) 437-0054",
+  "website": "https://www.sunbeltrentals.com"
+  },
+  {
+  "name": "Sunbelt Rentals (Fort McMurray)",
+  "category": "Construction",
+  "address": "1025 Memorial Drive Fort McMurray, AB T9K 0K4 CANADA",
+  "phone": "(888) 437-0054",
+  "website": "https://www.sunbeltrentals.com"
+  },
+  {
+  "name": "Sunbelt Rentals (Guelph - Michener)",
+  "category": "Construction",
+  "address": "492 Michener Road Guelph, ON N1K 1C6 CANADA",
+  "phone": "(888) 437-0054",
+  "website": "https://www.sunbeltrentals.com"
+  },
+  {
+  "name": "Sunbelt Rentals (Guelph - Victoria)",
+  "category": "Construction",
+  "address": "75 Victoria Road South Guelph, ON N1E 5P7 CANADA",
+  "phone": "(888) 437-0054",
+  "website": "https://www.sunbeltrentals.com"
+  },
+  {
+  "name": "Sunbelt Rentals (Guelph - Winer)",
+  "category": "Construction",
+  "address": "43 Winer Road Guelph, ON N0B 2J0 CANADA",
+  "phone": "(888) 437-0054",
+  "website": "https://www.sunbeltrentals.com"
+  },
+  {
+  "name": "Sunbelt Rentals (Haliburton)",
+  "category": "Construction",
+  "address": "162 Industrial Park Road Haliburton, ON K0M 1S0 CANADA",
+  "phone": "(888) 437-0054",
+  "website": "https://www.sunbeltrentals.com"
+  },
+  {
+  "name": "Sunbelt Rentals (Hamilton)",
+  "category": "Construction",
+  "address": "21 Warrington Street Hamilton, ON L8E 3L1 CANADA",
+  "phone": "(888) 437-0054",
+  "website": "https://www.sunbeltrentals.com"
+  },
+  {
+  "name": "Sunbelt Rentals (Huntsville)",
+  "category": "Construction",
+  "address": "40 Cairns Crescent Huntsville, ON P1H 1Y3 CANADA",
+  "phone": "(888) 437-0054",
+  "website": "https://www.sunbeltrentals.com"
+  },
+  {
+  "name": "Sunbelt Rentals (Kelowna)",
+  "category": "Construction",
+  "address": "910 McCurdy Road Kelowna, BC V1X 2P7 CANADA",
+  "phone": "(888) 437-0054",
+  "website": "https://www.sunbeltrentals.com"
+  },
+  {
+  "name": "Sunbelt Rentals (Kingston)",
+  "category": "Construction",
+  "address": "141 Lappans Lane Kingston, ON K7K 6Y8 CANADA",
+  "phone": "(888) 437-0054",
+  "website": "https://www.sunbeltrentals.com"
+  },
+  {
+  "name": "Sunbelt Rentals (Kitchener - Centennial)",
+  "category": "Construction",
+  "address": "75 Centennial Road Kitchener, ON N2B 3E9 CANADA",
+  "phone": "(888) 437-0054",
+  "website": "https://www.sunbeltrentals.com"
+  },
+  {
+  "name": "Sunbelt Rentals (Kitchener - Wilson)",
+  "category": "Construction",
+  "address": "915 Wilson Avenue Kitchener, ON N2C 1J1 CANADA",
+  "phone": "(888) 437-0054",
+  "website": "https://www.sunbeltrentals.com"
+  },
+  {
+  "name": "Sunbelt Rentals (Langford)",
+  "category": "Construction",
+  "address": "2994 Jacklin Road Langford, BC V9B 3Y8 CANADA",
+  "phone": "(888) 437-0054",
+  "website": "https://www.sunbeltrentals.com"
+  },
+  {
+  "name": "Sunbelt Rentals (Leduc)",
+  "category": "Construction",
+  "address": "7602 42 Street Leduc, AB T9E 0B5 CANADA",
+  "phone": "(888) 437-0054",
+  "website": "https://www.sunbeltrentals.com"
+  },
+  {
+  "name": "Sunbelt Rentals (London)",
+  "category": "Construction",
+  "address": "253 Exeter Road London, ON N6L 1A5 CANADA",
+  "phone": "(888) 437-0054",
+  "website": "https://www.sunbeltrentals.com"
+  },
+  {
+  "name": "Sunbelt Rentals (Mississauga)",
+  "category": "Construction",
+  "address": "2495 Tedlo Street Mississauga, ON L5A 4A8 CANADA",
+  "phone": "(888) 437-0054",
+  "website": "https://www.sunbeltrentals.com"
+  },
+  {
+  "name": "Sunbelt Rentals (Nanaimo)",
+  "category": "Construction",
+  "address": "1702 Northfield Road Nanaimo, BC V9S 3B2 CANADA",
+  "phone": "(888) 437-0054",
+  "website": "https://www.sunbeltrentals.com"
+  },
+  {
+  "name": "Sunbelt Rentals (Nepean)",
+  "category": "Construction",
+  "address": "101 Alti Place Nepean, ON K2R 1E6 CANADA",
+  "phone": "(888) 437-0054",
+  "website": "https://www.sunbeltrentals.com"
+  },
+  {
+  "name": "Sunbelt Rentals (Niagara Falls)",
+  "category": "Construction",
+  "address": "7888 Oakwood Drive Niagara Falls, ON L2E 6S5 CANADA",
+  "phone": "(888) 437-0054",
+  "website": "https://www.sunbeltrentals.com"
+  },
+  {
+  "name": "Sunbelt Rentals (North Vancouver)",
+  "category": "Construction",
+  "address": "50 Fell Avenue Suite 100 North Vancouver, BC V7P 3S2 CANADA",
+  "phone": "(888) 437-0054",
+  "website": "https://www.sunbeltrentals.com"
+  },
+  {
+  "name": "Sunbelt Rentals (Oakbank)",
+  "category": "Construction",
+  "address": "30 Boys Road Oakbank, MB R2J 3W8 CANADA",
+  "phone": "(888) 437-0054",
+  "website": "https://www.sunbeltrentals.com"
+  },
+  {
+  "name": "Sunbelt Rentals (Okotoks)",
+  "category": "Construction",
+  "address": "1111 North Railway Street #101 Okotoks, AB T1S 1A8 CANADA",
+  "phone": "(888) 437-0054",
+  "website": "https://www.sunbeltrentals.com"
+  },
+  {
+  "name": "Sunbelt Rentals (Orangeville)",
+  "category": "Construction",
+  "address": "62 First Avenue Orangeville, ON L9W 1J3 CANADA",
+  "phone": "(888) 437-0054",
+  "website": "https://www.sunbeltrentals.com"
+  },
+  {
+  "name": "Sunbelt Rentals (Oro-Medonte)",
+  "category": "Construction",
+  "address": "1 Forest View Road Oro-Medonte, ON L3V 0R4 CANADA",
+  "phone": "(888) 437-0054",
+  "website": "https://www.sunbeltrentals.com"
+  },
+  {
+  "name": "Sunbelt Rentals (Oshawa)",
+  "category": "Construction",
+  "address": "1277 Wilson Road North Oshawa, ON L1K 2B8 CANADA",
+  "phone": "(888) 437-0054",
+  "website": "https://www.sunbeltrentals.com"
+  },
+  {
+  "name": "Sunbelt Rentals (Ottawa - Fallowfield)",
+  "category": "Construction",
+  "address": "6368 Fallowfield Road Ottawa, ON K2S 1B8 CANADA",
+  "phone": "(888) 437-0054",
+  "website": "https://www.sunbeltrentals.com"
+  },
+  {
+  "name": "Sunbelt Rentals (Ottawa - Hawthorne)",
+  "category": "Construction",
+  "address": "3268 Hawthorne Road Ottawa, ON K1G 3W9 CANADA",
+  "phone": "(888) 437-0054",
+  "website": "https://www.sunbeltrentals.com"
+  },
+  {
+  "name": "Sunbelt Rentals (Ottawa - Sheffield)",
+  "category": "Construction",
+  "address": "2489 Sheffield Road Ottawa, ON K1B 3V6 CANADA",
+  "phone": "(888) 437-0054",
+  "website": "https://www.sunbeltrentals.com"
+  },
+  {
+  "name": "Sunbelt Rentals (Owen Sound)",
+  "category": "Construction",
+  "address": "1795 23rd Street East Owen Sound, ON N4K 0G6 CANADA",
+  "phone": "(888) 437-0054",
+  "website": "https://www.sunbeltrentals.com"
+  },
+  {
+  "name": "Sunbelt Rentals (Parksville)",
+  "category": "Construction",
+  "address": "1-1009 Allsbrook Road Parksville, BC V9P 2A9 CANADA",
+  "phone": "(888) 437-0054",
+  "website": "https://www.sunbeltrentals.com"
+  },
+  {
+  "name": "Sunbelt Rentals (Pembroke)",
+  "category": "Construction",
+  "address": "965 MacKay Street Pembroke, ON K8B 1A2 CANADA",
+  "phone": "(888) 437-0054",
+  "website": "https://www.sunbeltrentals.com"
+  },
+  {
+  "name": "Sunbelt Rentals (Peterborough)",
+  "category": "Construction",
+  "address": "1097 Highway 7 Peterborough, ON K9J 6X7 CANADA",
+  "phone": "(888) 437-0054",
+  "website": "https://www.sunbeltrentals.com"
+  },
+  {
+  "name": "Sunbelt Rentals (Port Elgin)",
+  "category": "Construction",
+  "address": "605 Barnes Avenue Port Elgin, ON N0H 2C1 CANADA",
+  "phone": "(888) 437-0054",
+  "website": "https://www.sunbeltrentals.com"
+  },
+  {
+  "name": "Sunbelt Rentals (Regina)",
+  "category": "Construction",
+  "address": "4850 East Victoria Avenue Regina, SK S4N 7A9 CANADA",
+  "phone": "(888) 437-0054",
+  "website": "https://www.sunbeltrentals.com"
+  },
+  {
+  "name": "Sunbelt Rentals (Richmond)",
+  "category": "Construction",
+  "address": "12288 Bridgeport Road Richmond, BC V6V 1J5 CANADA",
+  "phone": "(888) 437-0054",
+  "website": "https://www.sunbeltrentals.com"
+  },
+  {
+  "name": "Sunbelt Rentals (Saskatoon)",
+  "category": "Construction",
+  "address": "2636 Millar Ave Saskatoon, SK S7K 4C8 CANADA",
+  "phone": "(888) 437-0054",
+  "website": "https://www.sunbeltrentals.com"
+  },
+  {
+  "name": "Sunbelt Rentals (Sherwood Park)",
+  "category": "Construction",
+  "address": "209 Pembina Road Sherwood Park, AB T8H 2W8 CANADA",
+  "phone": "(888) 437-0054",
+  "website": "https://www.sunbeltrentals.com"
+  },
+  {
+  "name": "Sunbelt Rentals (Sidney)",
+  "category": "Construction",
+  "address": "10115 E. McDonald Park Road Sidney, BC V8L 5X5 CANADA",
+  "phone": "(888) 437-0054",
+  "website": "https://www.sunbeltrentals.com"
+  },
+  {
+  "name": "Sunbelt Rentals (Stouffville - Norbett)",
+  "category": "Construction",
+  "address": "12 Norbett Drive Stouffville, ON L4A 2G7 CANADA",
+  "phone": "(888) 437-0054",
+  "website": "https://www.sunbeltrentals.com"
+  },
+  {
+  "name": "Sunbelt Rentals (Stouffville - Ram Forest)",
+  "category": "Construction",
+  "address": "79 Ram Forest Road Stouffville, ON L4A 2G7 CANADA",
+  "phone": "(888) 437-0054",
+  "website": "https://www.sunbeltrentals.com"
+  },
+  {
+  "name": "Sunbelt Rentals (Stratford)",
+  "category": "Construction",
+  "address": "54 Lorne Avenue West Stratford, ON N5A 6S4 CANADA",
+  "phone": "(888) 437-0054",
+  "website": "https://www.sunbeltrentals.com"
+  },
+  {
+  "name": "Sunbelt Rentals (Surrey)",
+  "category": "Construction",
+  "address": "13078 84 Avenue Surrey, BC V3W 1L2 CANADA",
+  "phone": "(888) 437-0054",
+  "website": "https://www.sunbeltrentals.com"
+  },
+  {
+  "name": "Sunbelt Rentals (Sylvan Lake)",
+  "category": "Construction",
+  "address": "30 Industrial Drive Sylvan Lake, AB T4S 1P4 CANADA",
+  "phone": "(888) 437-0054",
+  "website": "https://www.sunbeltrentals.com"
+  },
+  {
+  "name": "Sunbelt Rentals (Terrace - Hwy 16)",
+  "category": "Construction",
+  "address": "3615 Hwy 16 East Terrace, BC V8G 4M2 CANADA",
+  "phone": "(888) 437-0054",
+  "website": "https://www.sunbeltrentals.com"
+  },
+  {
+  "name": "Sunbelt Rentals (Terrace - Keith)",
+  "category": "Construction",
+  "address": "102 4925 Keith Avenue Terrace, BC V8G 1K7 CANADA",
+  "phone": "(888) 437-0054",
+  "website": "https://www.sunbeltrentals.com"
+  }
+]
